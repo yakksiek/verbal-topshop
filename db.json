@@ -1,0 +1,1407 @@
+{
+    "women": {
+        "bestsellers": [
+            {
+                "id": 26,
+                "gender": "women",
+                "category": "footwear",
+                "subcategory": "elegant",
+                "productName": "High Heels",
+                "brand": "Test Producer",
+                "pricePLN": 49,
+                "priceUSD": 10,
+                "photos": [
+                    "/product-photos/women-shoes-1.jpg",
+                    "/product-photos/women-shoes-2.jpg",
+                    "/product-photos/women-shoes-3.jpg"
+                ],
+                "description": "Elegant and sophisticated, these high heels from Test Producer are perfect for any formal occasion. Crafted with attention to detail, they ensure both style and comfort.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 27,
+                "gender": "women",
+                "category": "footwear",
+                "subcategory": "elegant",
+                "productName": "High Heels 2",
+                "brand": "Another Producer",
+                "pricePLN": 149,
+                "priceUSD": 39,
+                "photos": [
+                    "/product-photos/women-shoes-2.jpg",
+                    "/product-photos/women-shoes-3.jpg",
+                    "/product-photos/women-shoes-1.jpg"
+                ],
+                "description": "These chic high heels by Another Producer blend classic style with modern flair. Perfect for evenings out or business events, they offer unparalleled elegance.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 28,
+                "gender": "women",
+                "category": "clothing",
+                "subcategory": "sweaters",
+                "productName": "White Sweater",
+                "brand": "Sun zi",
+                "pricePLN": 299,
+                "priceUSD": 59,
+                "photos": [
+                    "/product-photos/women-sweater-1.jpg",
+                    "/product-photos/women-trousers-2.jpg",
+                    "/product-photos/women-trousers-1.jpg"
+                ],
+                "description": "Cozy and comforting, the white sweater from Sun zi is knitted from premium fibers that provide warmth without sacrificing style.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 29,
+                "gender": "women",
+                "category": "clothing",
+                "subcategory": "trousers",
+                "productName": "Trousers",
+                "brand": "Shin-tzu",
+                "pricePLN": 149,
+                "priceUSD": 39,
+                "photos": [
+                    "/product-photos/women-trousers-1.jpg",
+                    "/product-photos/women-trousers-2.jpg",
+                    "/product-photos/women-trousers-2.jpg"
+                ],
+                "description": "Tailored for a sleek silhouette, these trousers from Shin-tzu are versatile for both office wear and casual outings.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            }
+        ],
+        "description": "Discover our premium range of women's apparel and accessories, designed to elevate your wardrobe with elegance and style.",
+        "maintenanceInfo": "For best results, follow the specific care instructions provided with each product.",
+        "heroImageUrl": "/product-photos/women.jpg"
+    },
+    "men": {
+        "bestsellers": [
+            {
+                "id": 1,
+                "gender": "men",
+                "category": "clothing",
+                "subcategory": "t-shirts",
+                "productName": "T-Shirt",
+                "brand": "Top Brand",
+                "pricePLN": 49,
+                "priceUSD": 10,
+                "photos": [
+                    "/product-photos/man-t-shirt-1.jpg",
+                    "/product-photos/man-t-shirt-4.jpg",
+                    "/product-photos/man-t-shirt-3.jpg"
+                ],
+                "description": "This classic T-shirt from Top Brand offers comfort and durability, making it a staple in any wardrobe.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 2,
+                "gender": "men",
+                "category": "clothing",
+                "subcategory": "t-shirts",
+                "productName": "T-Shirt",
+                "brand": "Top Brand",
+                "pricePLN": 49,
+                "priceUSD": 10,
+                "photos": [
+                    "/product-photos/man-t-shirt-1.jpg",
+                    "/product-photos/man-t-shirt-4.jpg",
+                    "/product-photos/man-t-shirt-3.jpg"
+                ],
+                "description": "Crafted for everyday use, this T-shirt by Top Brand merges simple style with practical functionality.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 3,
+                "gender": "men",
+                "category": "clothing",
+                "subcategory": "t-shirts",
+                "productName": "T-shirt 2",
+                "brand": "Sun Tzu",
+                "pricePLN": 199,
+                "priceUSD": 49,
+                "photos": [
+                    "/product-photos/man-t-shirt-4.jpg",
+                    "/product-photos/man-t-shirt-3.jpg",
+                    "/product-photos/man-t-shirt-4.jpg"
+                ],
+                "description": "Sun Tzu's T-shirt 2 is designed for the modern man, blending traditional aesthetics with a contemporary edge.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 4,
+                "gender": "men",
+                "category": "clothing",
+                "subcategory": "t-shirts",
+                "productName": "T-shirt 3",
+                "brand": "Sun Tzu",
+                "pricePLN": 199,
+                "priceUSD": 49,
+                "photos": [
+                    "/product-photos/man-t-shirt-3.jpg",
+                    "/product-photos/man-t-shirt-4.jpg",
+                    "/product-photos/man-t-shirt-1.jpg"
+                ],
+                "description": "Experience the perfect blend of comfort and style with the T-shirt 3 from Sun Tzu, ideal for both casual and formal settings.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            }
+        ],
+        "description": "Explore our exclusive collection of men's clothing that combines classic styles with modern trends.",
+        "maintenanceInfo": "Keep your garments in prime condition by following our detailed care instructions.",
+        "heroImageUrl": "/product-photos/men.jpg"
+    },
+    "children": {
+        "bestsellers": [
+            {
+                "id": 30,
+                "gender": "children",
+                "category": "footwear",
+                "subcategory": "elegant",
+                "productName": "Beautiful Shoes",
+                "brand": "Producer 1",
+                "pricePLN": 499,
+                "priceUSD": 99,
+                "photos": [
+                    "/product-photos/children-shoes-1.jpg",
+                    "/product-photos/children-shoes-2.jpg",
+                    "/product-photos/children-shoes-3.jpg"
+                ],
+                "description": "These Beautiful Shoes for children by Producer 1 are not only stylish but also comfortable, perfect for special occasions.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 31,
+                "gender": "children",
+                "category": "footwear",
+                "subcategory": "sneakers",
+                "productName": "Fast Shoes",
+                "brand": "Producer 2",
+                "pricePLN": 199,
+                "priceUSD": 39,
+                "photos": [
+                    "/product-photos/children-shoes-2.jpg",
+                    "/product-photos/children-shoes-1.jpg",
+                    "/product-photos/children-shoes-3.jpg"
+                ],
+                "description": "Designed for the energetic child, Fast Shoes by Producer 2 offer durability and support for all-day play.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 32,
+                "gender": "children",
+                "category": "clothing",
+                "subcategory": "trousers",
+                "productName": "Blue Trousers",
+                "brand": "Sun zi",
+                "pricePLN": 299,
+                "priceUSD": 59,
+                "photos": [
+                    "/product-photos/children-trousers-1.jpg",
+                    "/product-photos/children-trousers-2.jpg",
+                    "/product-photos/children-trousers-3.jpg"
+                ],
+                "description": "Blue Trousers from Sun zi are versatile and comfortable, making them ideal for both school and play.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 33,
+                "gender": "children",
+                "category": "clothing",
+                "subcategory": "trousers",
+                "productName": "Pink Trousers",
+                "brand": "Sun zi",
+                "pricePLN": 599,
+                "priceUSD": 119,
+                "photos": [
+                    "/product-photos/children-trousers-2.jpg",
+                    "/product-photos/children-trousers-3.jpg",
+                    "/product-photos/children-trousers-1.jpg"
+                ],
+                "description": "Perfect for active little ones, Pink Trousers by Sun zi are crafted for comfort and freedom of movement.",
+                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            }
+        ],
+        "description": "Our children's collection features high-quality, durable clothing and footwear designed to keep up with your child's active lifestyle.",
+        "maintenanceInfo": "Ensure longevity and quality by adhering to our care guidelines.",
+        "heroImageUrl": "/product-photos/children.jpg"
+    },
+    "products": [
+        {
+            "id": 1,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-Shirt",
+            "brand": "Top Brand",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/man-t-shirt-1.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg"
+            ],
+            "description": "Crafted for comfort and durability, this T-Shirt from Top Brand features a classic cut and soft fabric that adapts seamlessly to your lifestyle. Ideal for casual outings or as a staple piece for your laid-back days.",
+            "maintenanceInfo": "For lasting use, machine wash on a gentle cycle and hang to dry. Avoid bleach and iron on low heat."
+        },
+        {
+            "id": 2,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-Shirt",
+            "brand": "Top Brand",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/man-t-shirt-1.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg"
+            ],
+            "description": "This classic T-Shirt from Top Brand offers unmatched versatility and comfort. Designed to fit seamlessly into any wardrobe, it's perfect for daily wear or special occasions.",
+            "maintenanceInfo": "To ensure long-lasting wear, wash cold and line dry. Iron on a low setting if necessary."
+        },
+        {
+            "id": 3,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 2",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "Sun Tzu's T-shirt 2 is all about comfort and style. Its lightweight fabric and sleek design make it an excellent choice for both leisure and active wear.",
+            "maintenanceInfo": "Avoid hot water, bleach, and high-temperature drying to maintain the shirt's shape and color over time."
+        },
+        {
+            "id": 4,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 3",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-1.jpg"
+            ],
+            "description": "T-shirt 3 from Sun Tzu blends innovative fabric technology with modern design to provide optimum durability and a stylish look suitable for various occasions.",
+            "maintenanceInfo": "Machine wash on gentle cycle and hang to dry for best results. Do not use bleach."
+        },
+        {
+            "id": 5,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 4",
+            "brand": "Sun Tzu",
+            "pricePLN": 129,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "T-shirt 4 from Sun Tzu merges classic style with modern fabric technology, ensuring a breathable fit that stands up to the demands of daily wear.",
+            "maintenanceInfo": "Machine wash gentle, avoid bleach, and hang to dry to maintain the integrity of the fabric."
+        },
+        {
+            "id": 6,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-Shirt",
+            "brand": "Top Brand",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/man-t-shirt-1.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg"
+            ],
+            "description": "This T-Shirt by Top Brand is designed to offer comfort and longevity, ideal for both everyday wear and special casual occasions.",
+            "maintenanceInfo": "Wash in cold water with like colors and tumble dry on low; iron on cool if necessary."
+        },
+        {
+            "id": 7,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 2",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "Experience the ultimate in comfort with T-shirt 2 from Sun Tzu, designed with a unique blend of materials that ensure flexibility and breathability.",
+            "maintenanceInfo": "To maintain the quality of this garment, wash on a gentle cycle and line dry."
+        },
+        {
+            "id": 8,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 3",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-1.jpg"
+            ],
+            "description": "T-shirt 3 by Sun Tzu is crafted for the active lifestyle, featuring a stretchable fabric that moves with you and a quick-dry technology to keep you cool.",
+            "maintenanceInfo": "Machine wash cold with similar colors, do not bleach, tumble dry low."
+        },
+        {
+            "id": 9,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 4",
+            "brand": "Sun Tzu",
+            "pricePLN": 129,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "Sun Tzu's T-shirt 4 is perfect for those who value both form and function, with its durable fabric that resists wear and tear.",
+            "maintenanceInfo": "For best care, wash in warm water, dry on low heat, and iron on medium if needed."
+        },
+        {
+            "id": 10,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-Shirt",
+            "brand": "Top Brand",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-1.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "This classic T-Shirt by Top Brand is designed for ultimate comfort and durability, perfect for everyday wear or casual outings.",
+            "maintenanceInfo": "For best results, wash this t-shirt in cold water and line dry to maintain its shape and color."
+        },
+        {
+            "id": 11,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 2",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "T-shirt 2 from Sun Tzu features innovative fabric technology that offers enhanced breathability and moisture-wicking properties for active or leisure use.",
+            "maintenanceInfo": "Machine wash on a gentle cycle and tumble dry on low. Avoid ironing directly on the print."
+        },
+        {
+            "id": 12,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 3",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-1.jpg"
+            ],
+            "description": "T-shirt 3 by Sun Tzu is crafted for comfort and style, combining traditional design with modern fabric enhancements for superior fit and feel.",
+            "maintenanceInfo": "Wash this garment inside out to protect the fabric surface and print. Do not bleach."
+        },
+        {
+            "id": 13,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 4",
+            "brand": "Sun Tzu",
+            "pricePLN": 129,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "This fashion-forward T-shirt 4 from Sun Tzu is designed with an eye for detail, featuring a sleek, minimalist look that doesn't compromise on comfort.",
+            "maintenanceInfo": "To maintain the pristine condition of this t-shirt, avoid high heat in washing or drying. Iron on the reverse side."
+        },
+        {
+            "id": 14,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-Shirt",
+            "brand": "Top Brand",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/man-t-shirt-1.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg"
+            ],
+            "description": "Enhance your wardrobe with the Top Brand T-Shirt, blending a contemporary fit with the softness and resilience needed for both active days and relaxation.",
+            "maintenanceInfo": "Cold wash and gentle cycle recommended. Dry at low temperatures and iron gently if needed."
+        },
+        {
+            "id": 15,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 2",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "Return to the essentials with Sun Tzu's T-shirt 2, designed for optimal comfort and long-lasting wear. Perfect for those who value quality and simplicity.",
+            "maintenanceInfo": "For lasting use, avoid using bleach and do not dry clean. Iron on low heat if necessary."
+        },
+        {
+            "id": 16,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 3",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-1.jpg"
+            ],
+            "description": "Sun Tzu's T-shirt 3 is the perfect blend of classic style and modern performance, ideal for both sport and casual wear.",
+            "maintenanceInfo": "Machine washable at 30°C, tumble dry on a low setting. Avoid direct ironing on print."
+        },
+        {
+            "id": 17,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 4",
+            "brand": "Sun Tzu",
+            "pricePLN": 129,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "T-shirt 4 from Sun Tzu offers an advanced design with a focus on mobility and comfort, making it a top choice for daily activities.",
+            "maintenanceInfo": "Use a mild detergent and cool water for washing. Dry flat for best results."
+        },
+        {
+            "id": 18,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-Shirt",
+            "brand": "Top Brand",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/man-t-shirt-1.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg"
+            ],
+            "description": "Crafted for simplicity and comfort, the Top Brand T-Shirt is your go-to option for a relaxed yet refined look.",
+            "maintenanceInfo": "Simple care is best: wash in cool water, avoid high heat drying, and iron on a low setting only when necessary."
+        },
+        {
+            "id": 19,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 2",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "Opt for T-shirt 2 from Sun Tzu for its superior durability and sophisticated styling that doesn’t sacrifice comfort.",
+            "maintenanceInfo": "Machine wash cold with similar colors. Do not bleach. Hang dry for best results."
+        },
+        {
+            "id": 21,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 4",
+            "brand": "Sun Tzu",
+            "pricePLN": 129,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "Experience unparalleled comfort and style with our men's T-shirt, featuring high-quality fabric and a classic cut. Perfect for both casual and formal occasions.",
+            "maintenanceInfo": "For best care, machine wash in warm water, avoid using bleach, and tumble dry on low."
+        },
+        {
+            "id": 22,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-Shirt",
+            "brand": "Top Brand",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/man-t-shirt-1.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg"
+            ],
+            "description": "Crafted for comfort and durability, our essential T-shirt is a must-have in every wardrobe. It's versatile for both everyday wear and layering.",
+            "maintenanceInfo": "Machine wash cold with like colors, tumble dry low. Do not iron the print."
+        },
+        {
+            "id": 23,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 2",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "Our premium T-shirt blends style with practicality, making it an excellent choice for any activity. Features a soft texture and resilient fabric.",
+            "maintenanceInfo": "Wash separately in cold water, hang dry, avoid bleach to maintain color integrity."
+        },
+        {
+            "id": 24,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 3",
+            "brand": "Sun Tzu",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-1.jpg"
+            ],
+            "description": "Strike the perfect balance between casual and stylish with our soft, breathable T-shirt, designed for all-day comfort and lasting wear.",
+            "maintenanceInfo": "Gentle cycle in washing machine, use non-chlorine bleach if needed, line dry in shade."
+        },
+        {
+            "id": 25,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "t-shirts",
+            "productName": "T-shirt 4",
+            "brand": "Sun Tzu",
+            "pricePLN": 129,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/man-t-shirt-4.jpg",
+                "/product-photos/man-t-shirt-3.jpg",
+                "/product-photos/man-t-shirt-4.jpg"
+            ],
+            "description": "Step up your style with our designer T-shirt, featuring exclusive prints and a tailored fit. Ideal for a sharp, modern look.",
+            "maintenanceInfo": "Wash in mild detergent, avoid high heat, dry flat away from direct sunlight."
+        },
+        {
+            "id": 26,
+            "gender": "women",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Heels",
+            "brand": "Test Manufacturer",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/women-shoes-1.jpg",
+                "/product-photos/women-shoes-2.jpg"
+            ],
+            "description": "Elevate your evening look with our elegant heels, designed for sophistication and comfort. Perfect for special occasions.",
+            "maintenanceInfo": "Keep in a dry place, use shoe polish for leather care, avoid water exposure."
+        },
+        {
+            "id": 27,
+            "gender": "women",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Heels 2",
+            "brand": "Another Producer",
+            "pricePLN": 149,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/women-shoes-2.jpg",
+                "/product-photos/women-shoes-3.jpg",
+                "/product-photos/women-shoes-1.jpg"
+            ],
+            "description": "Our latest collection heels feature a classic design with a modern twist, ensuring both style and comfort for any formal event.",
+            "maintenanceInfo": "Use a soft cloth to clean, store in a cool, dry place, and use shoe trees to maintain shape."
+        },
+        {
+            "id": 28,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "sweaters",
+            "productName": "White Sweater",
+            "brand": "Sun Zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-shoes-2.jpg",
+                "/product-photos/women-trousers-1.jpg"
+            ],
+            "description": "Cozy up in our luxurious white sweater, crafted with premium fibers for ultimate warmth and comfort. Ideal for chilly days.",
+            "maintenanceInfo": "Hand wash in cold water, lay flat to dry, do not wring."
+        },
+        {
+            "id": 29,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Trousers",
+            "brand": "Shin-tzu",
+            "pricePLN": 149,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/women-trousers-1.jpg",
+                "/product-photos/women-trousers-2.jpg",
+                "/product-photos/women-trousers-2.jpg"
+            ],
+            "description": "Discover the perfect blend of comfort and elegance with our tailored trousers. Designed for versatility, they can be dressed up or down.",
+            "maintenanceInfo": "Machine washable at 30°C, iron at medium temperature, suitable for dry cleaning."
+        },
+        {
+            "id": 34,
+            "gender": "women",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Heels",
+            "brand": "Test Manufacturer",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/women-shoes-1.jpg",
+                "/product-photos/women-shoes-2.jpg",
+                "/product-photos/women-shoes-3.jpg"
+            ],
+            "description": "Step into elegance with these sleek, stylish heels, perfect for any formal occasion. Designed for comfort and lasting wear.",
+            "maintenanceInfo": "To maintain appearance, avoid water and direct heat. Use a soft brush for cleaning."
+        },
+        {
+            "id": 35,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "sweaters",
+            "productName": "White Sweater",
+            "brand": "Sun Zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg"
+            ],
+            "description": "Embrace warmth and style with this luxurious white sweater, crafted from high-quality materials for a cozy, fashionable fit.",
+            "maintenanceInfo": "Hand wash in cold water, dry flat, do not iron or use bleach."
+        },
+        {
+            "id": 36,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "sweaters",
+            "productName": "White Sweater",
+            "brand": "Sun Zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg"
+            ],
+            "description": "Luxurious and soft, this white sweater is a versatile addition to your wardrobe, ideal for layering in cooler weather.",
+            "maintenanceInfo": "Machine wash gentle cycle, lay flat to dry, use mild detergent."
+        },
+        {
+            "id": 37,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Trousers",
+            "brand": "Shin-tzu",
+            "pricePLN": 149,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/women-trousers-1.jpg",
+                "/product-photos/women-trousers-2.jpg",
+                "/product-photos/women-trousers-2.jpg"
+            ],
+            "description": "Modern and chic, these trousers are tailored for a flattering fit, perfect for work or weekend outings.",
+            "maintenanceInfo": "Machine washable, hang to dry, iron at low temperature."
+        },
+        {
+            "id": 388,
+            "gender": "women",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Heels 2",
+            "brand": "Another Producer",
+            "pricePLN": 149,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/women-shoes-2.jpg",
+                "/product-photos/women-shoes-3.jpg",
+                "/product-photos/women-shoes-1.jpg"
+            ],
+            "description": "Elegantly designed with a modern twist, these heels offer both style and comfort for all-day wear at any event.",
+            "maintenanceInfo": "Keep in a cool, dry place. Wipe clean with a damp cloth; do not submerge in water."
+        },
+        {
+            "id": 39,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "sweaters",
+            "productName": "White Sweater",
+            "brand": "Sun Zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg"
+            ],
+            "description": "This white sweater offers timeless elegance with its refined design and soft texture, perfect for adding a touch of class to any outfit.",
+            "maintenanceInfo": "Wash gently with like colors, air dry, avoid bleach and harsh chemicals."
+        },
+        {
+            "id": 40,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Trousers",
+            "brand": "Shin-tzu",
+            "pricePLN": 149,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/women-trousers-1.jpg",
+                "/product-photos/women-trousers-2.jpg",
+                "/product-photos/women-trousers-2.jpg"
+            ],
+            "description": "Tailored for a sleek silhouette, these trousers offer both style and comfort for your daily wardrobe or professional settings.",
+            "maintenanceInfo": "Machine washable in cold water; do not bleach; iron on low heat."
+        },
+        {
+            "id": 41,
+            "gender": "women",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Heels",
+            "brand": "Test Manufacturer",
+            "pricePLN": 49,
+            "priceUSD": 10,
+            "photos": [
+                "/product-photos/women-shoes-1.jpg",
+                "/product-photos/women-shoes-2.jpg",
+                "/product-photos/women-shoes-3.jpg"
+            ],
+            "description": "Exude elegance with these beautifully crafted heels, ideal for evenings out or special occasions. Their comfortable design allows for extended wear without sacrificing style.",
+            "maintenanceInfo": "Avoid moisture and heat. Use a soft brush to remove dirt. Store in a cool, dry place with a shoe tree."
+        },
+        {
+            "id": 42,
+            "gender": "women",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Heels 2",
+            "brand": "Another Producer",
+            "pricePLN": 149,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/women-shoes-2.jpg",
+                "/product-photos/women-shoes-3.jpg",
+                "/product-photos/women-shoes-1.jpg"
+            ],
+            "description": "Discover the blend of modern design with comfort in these high heels, perfect for professional or formal settings.",
+            "maintenanceInfo": "Clean with a damp cloth, polish regularly, and avoid long periods of direct sunlight exposure."
+        },
+        {
+            "id": 43,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "sweaters",
+            "productName": "White Sweater",
+            "brand": "Sun Zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg"
+            ],
+            "description": "This white sweater is your new go-to piece for layering. Made from plush materials, it provides warmth and style without bulk.",
+            "maintenanceInfo": "Hand wash in lukewarm water, reshape and dry flat, do not tumble dry."
+        },
+        {
+            "id": 44,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Trousers",
+            "brand": "Shin-tzu",
+            "pricePLN": 149,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/women-trousers-1.jpg",
+                "/product-photos/women-trousers-2.jpg",
+                "/product-photos/women-trousers-2.jpg"
+            ],
+            "description": "Our stylish and comfortable trousers are crafted to enhance your everyday look. The perfect addition to your casual or work attire.",
+            "maintenanceInfo": "Gentle wash in cold water, iron at medium temperature, suitable for dry cleaning."
+        },
+        {
+            "id": 45,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "sweaters",
+            "productName": "White Sweater",
+            "brand": "Sun Zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-1.jpg"
+            ],
+            "description": "Soft, luxurious, and effortlessly chic, this white sweater adds a touch of sophistication to any outfit. Its snug feel ensures you stay warm in style.",
+            "maintenanceInfo": "Avoid bleach, wash with similar colors, and air dry to maintain the fabric's softness and color."
+        },
+        {
+            "id": 46,
+            "gender": "women",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Trousers",
+            "brand": "Shin-tzu",
+            "pricePLN": 149,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/women-trousers-1.jpg",
+                "/product-photos/women-trousers-2.jpg",
+                "/product-photos/women-trousers-2.jpg"
+            ],
+            "description": "Versatile and fashionable, these trousers provide a perfect fit that flatters every figure. Ideal for office wear or a polished weekend look.",
+            "maintenanceInfo": "Wash on gentle cycle, do not over-dry, keep away from harsh chemicals."
+        },
+        {
+            "id": 30,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Beautiful Boots",
+            "brand": "Manufacturer 1",
+            "pricePLN": 499,
+            "priceUSD": 99,
+            "photos": [
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Charming and stylish, these boots are perfect for special occasions, combining elegance with a comfortable fit for young ones.",
+            "maintenanceInfo": "Clean gently with a damp cloth, avoid heavy scrubbing and harsh chemicals to preserve the quality of the material."
+        },
+        {
+            "id": 31,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Fast Sneakers",
+            "brand": "Manufacturer 2",
+            "pricePLN": 199,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Designed for active kids, these sneakers offer both speed and comfort, making them ideal for everyday play and sports activities.",
+            "maintenanceInfo": "Machine washable at low temperatures; air dry to maintain shape and texture."
+        },
+        {
+            "id": 32,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Blue Trousers",
+            "brand": "Sun zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/children-trousers-1.jpg",
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg"
+            ],
+            "description": "These blue trousers are made with premium fabric, offering comfort and durability for kids on the go.",
+            "maintenanceInfo": "Wash with similar colors, use cold water, and tumble dry on low to avoid shrinkage."
+        },
+        {
+            "id": 33,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Pink Trousers",
+            "brand": "Sun zi",
+            "pricePLN": 599,
+            "priceUSD": 119,
+            "photos": [
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg",
+                "/product-photos/children-trousers-1.jpg"
+            ],
+            "description": "Soft, stylish, and vibrant, these pink trousers will keep your little ones comfortable and fashionable throughout the day.",
+            "maintenanceInfo": "For lasting color, avoid bleach and wash inside out with mild detergent on a gentle cycle."
+        },
+        {
+            "id": 46,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Beautiful Boots",
+            "brand": "Manufacturer 1",
+            "pricePLN": 499,
+            "priceUSD": 99,
+            "photos": [
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Ideal for dress-up occasions, these beautiful boots provide elegance with a focus on comfort for young feet.",
+            "maintenanceInfo": "Spot clean as needed and polish periodically to maintain the natural shine of the leather."
+        },
+        {
+            "id": 47,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Fast Sneakers",
+            "brand": "Manufacturer 2",
+            "pricePLN": 199,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Perfect for energetic kids, these sneakers are designed to keep up with the demands of growing children, offering durability and support.",
+            "maintenanceInfo": "Easy to clean, simply wipe down with a cloth and air dry after use to prevent odors."
+        },
+        {
+            "id": 48,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Blue Trousers",
+            "brand": "Sun zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/children-trousers-1.jpg",
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg"
+            ],
+            "description": "Comfort meets style in these durable blue trousers, designed to withstand the rigors of play while keeping children looking their best.",
+            "maintenanceInfo": "Machine wash gentle, non-chlorine bleach if needed, and iron on a low setting."
+        },
+        {
+            "id": 49,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Pink Trousers",
+            "brand": "Sun Zi",
+            "pricePLN": 599,
+            "priceUSD": 119,
+            "photos": [
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg",
+                "/product-photos/children-trousers-1.jpg"
+            ],
+            "description": "These vibrant pink trousers are perfect for adding a splash of color to your child's wardrobe, made with soft, stretchy material for all-day comfort.",
+            "maintenanceInfo": "Machine wash on gentle cycle with similar colors, hang to dry, iron on low heat."
+        },
+        {
+            "id": 51,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Beautiful Boots",
+            "brand": "Manufacturer 1",
+            "pricePLN": 499,
+            "priceUSD": 99,
+            "photos": [
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Elegant and timeless, these boots are designed with young ones in mind, providing comfort without sacrificing style for special occasions.",
+            "maintenanceInfo": "To clean, use a soft brush or cloth; avoid harsh chemicals and heat."
+        },
+        {
+            "id": 52,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Fast Sneakers",
+            "brand": "Manufacturer 2",
+            "pricePLN": 199,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Lightweight and durable, these sneakers are designed for the fast-paced play of energetic children, featuring breathable materials and a secure fit.",
+            "maintenanceInfo": "Washable in cold water, air dry, avoid direct sunlight to prevent fading."
+        },
+        {
+            "id": 53,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Blue Trousers",
+            "brand": "Sun Zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/children-trousers-1.jpg",
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg"
+            ],
+            "description": "Crafted from durable fabric, these blue trousers are designed to withstand the rough and tumble of playtime while keeping your child looking neat and tidy.",
+            "maintenanceInfo": "Machine washable, tumble dry on low; iron on medium setting if necessary."
+        },
+        {
+            "id": 54,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Pink Trousers",
+            "brand": "Sun Zi",
+            "pricePLN": 599,
+            "priceUSD": 119,
+            "photos": [
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg",
+                "/product-photos/children-trousers-1.jpg"
+            ],
+            "description": "Our pink trousers are not only stylish but also practical, made with a soft, comfortable fabric that is perfect for children's sensitive skin.",
+            "maintenanceInfo": "For best results, wash inside out in cool water, avoid bleach, and line dry."
+        },
+        {
+            "id": 56,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Stylish Shoes",
+            "brand": "Brand 1",
+            "pricePLN": 499,
+            "priceUSD": 99,
+            "photos": [
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Make a fashion statement with these elegant shoes for children. Crafted with premium materials, they offer both style and comfort for any occasion.",
+            "maintenanceInfo": "To maintain the quality of these shoes, wipe clean with a damp cloth as needed. Avoid prolonged exposure to direct sunlight to prevent color fading."
+        },
+        {
+            "id": 57,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Speedy Sneakers",
+            "brand": "Brand 2",
+            "pricePLN": 199,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Let your kids zoom around in style with these speedy sneakers. Designed for active kids, they provide comfort and support for all-day wear.",
+            "maintenanceInfo": "These sneakers are machine washable. Use a gentle cycle with cold water and mild detergent. Air dry them away from direct heat sources."
+        },
+        {
+            "id": 58,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Blue Pants",
+            "brand": "Sun zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/children-trousers-1.jpg",
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg"
+            ],
+            "description": "Keep your little ones comfortable and stylish with these blue pants. Made from soft and durable fabric, they are perfect for both playtime and special occasions.",
+            "maintenanceInfo": "Machine wash cold with like colors. Tumble dry low. Use non-chlorine bleach if needed. Iron on low heat if necessary."
+        },
+        {
+            "id": 59,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Pink Pants",
+            "brand": "Sun zi",
+            "pricePLN": 599,
+            "priceUSD": 119,
+            "photos": [
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg",
+                "/product-photos/children-trousers-1.jpg"
+            ],
+            "description": "Add a splash of color to your child's wardrobe with these adorable pink pants. They're designed for both style and comfort, perfect for any occasion.",
+            "maintenanceInfo": "Machine wash cold with like colors. Tumble dry low. Do not bleach. Warm iron if needed."
+        },
+        {
+            "id": 61,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Classic Shoes",
+            "brand": "Brand 1",
+            "pricePLN": 499,
+            "priceUSD": 99,
+            "photos": [
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "These classic shoes are a must-have for any child's wardrobe. With timeless design and durable construction, they're suitable for any formal occasion.",
+            "maintenanceInfo": "Wipe clean with a soft, damp cloth. Apply shoe polish regularly to maintain shine and condition leather. Store in a cool, dry place away from direct sunlight."
+        },
+        {
+            "id": 62,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Sporty Sneakers",
+            "brand": "Brand 2",
+            "pricePLN": 199,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Let your child run, jump, and play comfortably in these sporty sneakers. Designed for active kids, they offer support and cushioning with every step.",
+            "maintenanceInfo": "These sneakers are machine washable. Use a gentle cycle with cold water and mild detergent. Air dry them away from direct heat sources."
+        },
+        {
+            "id": 63,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Blue Jeans",
+            "brand": "Sun zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/children-trousers-1.jpg",
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg"
+            ],
+            "description": "Add a touch of style to your child's wardrobe with these trendy blue jeans. Made from high-quality denim, they offer both comfort and durability for everyday wear.",
+            "maintenanceInfo": "Machine wash cold inside out with like colors. Tumble dry low. Iron on reverse side if needed. Do not dry clean."
+        },
+        {
+            "id": 64,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Pink Leggings",
+            "brand": "Sun zi",
+            "pricePLN": 599,
+            "priceUSD": 119,
+            "photos": [
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg",
+                "/product-photos/children-trousers-1.jpg"
+            ],
+            "description": "These adorable pink leggings are a must-have for your little one's wardrobe. Made from soft and stretchy fabric, they provide both style and comfort for all-day wear.",
+            "maintenanceInfo": "Machine wash cold with like colors. Do not bleach. Tumble dry low. Iron on low heat if needed."
+        },
+        {
+            "id": 66,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Classic Dress Shoes",
+            "brand": "Brand 1",
+            "pricePLN": 499,
+            "priceUSD": 99,
+            "photos": [
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Complete your child's formal look with these classic dress shoes. Crafted with premium materials, they offer both style and comfort for any special occasion.",
+            "maintenanceInfo": "Wipe clean with a soft, damp cloth. Apply shoe polish regularly to maintain shine and condition leather. Store in a cool, dry place away from direct sunlight."
+        },
+        {
+            "id": 67,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Speedy Sneakers",
+            "brand": "Brand 2",
+            "pricePLN": 199,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Let your kids zoom around in style with these speedy sneakers. Designed for active kids, they provide comfort and support for all-day wear.",
+            "maintenanceInfo": "These sneakers are machine washable. Use a gentle cycle with cold water and mild detergent. Air dry them away from direct heat sources."
+        },
+        {
+            "id": 68,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Blue Cargo Pants",
+            "brand": "Sun zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/children-trousers-1.jpg",
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg"
+            ],
+            "description": "Get your child ready for adventure with these blue cargo pants. Featuring multiple pockets and sturdy construction, they're perfect for outdoor activities.",
+            "maintenanceInfo": "Machine wash cold with like colors. Tumble dry low. Use non-chlorine bleach if needed. Iron on low heat if necessary."
+        },
+        {
+            "id": 69,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Pink Joggers",
+            "brand": "Sun zi",
+            "pricePLN": 599,
+            "priceUSD": 119,
+            "photos": [
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg",
+                "/product-photos/children-trousers-1.jpg"
+            ],
+            "description": "Keep your child comfortable and stylish with these pink joggers. Made from soft and stretchy fabric, they're perfect for playtime or casual outings.",
+            "maintenanceInfo": "Machine wash cold with like colors. Tumble dry low. Do not bleach. Warm iron if needed."
+        },
+        {
+            "id": 71,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Formal Shoes",
+            "brand": "Brand 1",
+            "pricePLN": 499,
+            "priceUSD": 99,
+            "photos": [
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Make a statement at any formal event with these elegant formal shoes. Crafted with attention to detail, they offer both style and comfort for your child.",
+            "maintenanceInfo": "Wipe clean with a soft, damp cloth. Apply shoe polish regularly to maintain shine and condition leather. Store in a cool, dry place away from direct sunlight."
+        },
+        {
+            "id": 72,
+            "gender": "children",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Quick Sneakers",
+            "brand": "Brand 2",
+            "pricePLN": 199,
+            "priceUSD": 39,
+            "photos": [
+                "/product-photos/children-shoes-2.jpg",
+                "/product-photos/children-shoes-1.jpg",
+                "/product-photos/children-shoes-3.jpg"
+            ],
+            "description": "Let your child dash around in style with these quick sneakers. Designed for comfort and performance, they're perfect for active kids on the go.",
+            "maintenanceInfo": "These sneakers are machine washable. Use a gentle cycle with cold water and mild detergent. Air dry them away from direct heat sources."
+        },
+        {
+            "id": 73,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Blue Denim Jeans",
+            "brand": "Sun zi",
+            "pricePLN": 299,
+            "priceUSD": 59,
+            "photos": [
+                "/product-photos/children-trousers-1.jpg",
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg"
+            ],
+            "description": "Add a touch of classic style to your child's wardrobe with these blue denim jeans. Made from durable denim fabric, they're perfect for everyday wear.",
+            "maintenanceInfo": "Machine wash cold with like colors. Tumble dry low. Iron on reverse side if needed. Do not dry clean."
+        },
+        {
+            "id": 74,
+            "gender": "children",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Pink Cargo Pants",
+            "brand": "Sun zi",
+            "pricePLN": 599,
+            "priceUSD": 119,
+            "photos": [
+                "/product-photos/children-trousers-2.jpg",
+                "/product-photos/children-trousers-3.jpg",
+                "/product-photos/children-trousers-1.jpg"
+            ],
+            "description": "Let your child explore in style with these pink cargo pants. Featuring multiple pockets and durable construction, they're perfect for outdoor adventures.",
+            "maintenanceInfo": "Machine wash cold with like colors. Tumble dry low. Use non-chlorine bleach if needed. Iron on low heat if necessary."
+        }
+    ],
+    "favourites": [
+        {
+            "productId": 1,
+            "id": 1
+        }
+    ]
+}
