@@ -63,7 +63,7 @@
                 "priceUSD": 39,
                 "photos": [
                     "/product-photos/women-trousers-1.jpg",
-                    "/product-photos/women-trousers-2.jpg",
+                    "/product-photos/women-trousers-3.jpg",
                     "/product-photos/women-trousers-2.jpg"
                 ],
                 "description": "Tailored for a sleek silhouette, these trousers from Shin-tzu are versatile for both office wear and casual outings.",
@@ -86,9 +86,9 @@
                 "pricePLN": 49,
                 "priceUSD": 10,
                 "photos": [
-                    "/product-photos/man-t-shirt-1.jpg",
-                    "/product-photos/man-t-shirt-4.jpg",
-                    "/product-photos/man-t-shirt-3.jpg"
+                    "/product-photos/men-t-shirt-1.jpg",
+                    "/product-photos/men-t-shirt-2.jpg",
+                    "/product-photos/men-t-shirt-3.jpg"
                 ],
                 "description": "This classic T-shirt from Top Brand offers comfort and durability, making it a staple in any wardrobe.",
                 "maintenanceInfo": "Care and maintenance details retrieved from the backend."
@@ -103,9 +103,9 @@
                 "pricePLN": 49,
                 "priceUSD": 10,
                 "photos": [
-                    "/product-photos/man-t-shirt-1.jpg",
-                    "/product-photos/man-t-shirt-4.jpg",
-                    "/product-photos/man-t-shirt-3.jpg"
+                    "/product-photos/men-t-shirt-4.jpg",
+                    "/product-photos/men-t-shirt-5.jpg",
+                    "/product-photos/men-t-shirt-6.jpg"
                 ],
                 "description": "Crafted for everyday use, this T-shirt by Top Brand merges simple style with practical functionality.",
                 "maintenanceInfo": "Care and maintenance details retrieved from the backend."
@@ -120,9 +120,9 @@
                 "pricePLN": 199,
                 "priceUSD": 49,
                 "photos": [
-                    "/product-photos/man-t-shirt-4.jpg",
-                    "/product-photos/man-t-shirt-3.jpg",
-                    "/product-photos/man-t-shirt-4.jpg"
+                    "/product-photos/men-t-shirt-7.jpg",
+                    "/product-photos/men-t-shirt-8.jpg",
+                    "/product-photos/men-t-shirt-9.jpg"
                 ],
                 "description": "Sun Tzu's T-shirt 2 is designed for the modern man, blending traditional aesthetics with a contemporary edge.",
                 "maintenanceInfo": "Care and maintenance details retrieved from the backend."
@@ -137,9 +137,9 @@
                 "pricePLN": 199,
                 "priceUSD": 49,
                 "photos": [
-                    "/product-photos/man-t-shirt-3.jpg",
-                    "/product-photos/man-t-shirt-4.jpg",
-                    "/product-photos/man-t-shirt-1.jpg"
+                    "/product-photos/men-t-shirt-2.jpg",
+                    "/product-photos/men-t-shirt-1.jpg",
+                    "/product-photos/men-t-shirt-3.jpg"
                 ],
                 "description": "Experience the perfect blend of comfort and style with the T-shirt 3 from Sun Tzu, ideal for both casual and formal settings.",
                 "maintenanceInfo": "Care and maintenance details retrieved from the backend."
@@ -235,9 +235,9 @@
             "pricePLN": 49,
             "priceUSD": 10,
             "photos": [
-                "/product-photos/man-t-shirt-1.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg"
+                "/product-photos/men-t-shirt-5.jpg",
+                "/product-photos/men-t-shirt-4.jpg",
+                "/product-photos/men-t-shirt-6.jpg"
             ],
             "description": "Crafted for comfort and durability, this T-Shirt from Top Brand features a classic cut and soft fabric that adapts seamlessly to your lifestyle. Ideal for casual outings or as a staple piece for your laid-back days.",
             "maintenanceInfo": "For lasting use, machine wash on a gentle cycle and hang to dry. Avoid bleach and iron on low heat."
@@ -252,9 +252,9 @@
             "pricePLN": 49,
             "priceUSD": 10,
             "photos": [
-                "/product-photos/man-t-shirt-1.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg"
+                "/product-photos/men-t-shirt-8.jpg",
+                "/product-photos/men-t-shirt-7.jpg",
+                "/product-photos/men-t-shirt-9.jpg"
             ],
             "description": "This classic T-Shirt from Top Brand offers unmatched versatility and comfort. Designed to fit seamlessly into any wardrobe, it's perfect for daily wear or special occasions.",
             "maintenanceInfo": "To ensure long-lasting wear, wash cold and line dry. Iron on a low setting if necessary."
@@ -269,9 +269,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-3.jpg",
+                "/product-photos/men-t-shirt-2.jpg",
+                "/product-photos/men-t-shirt-1.jpg"
             ],
             "description": "Sun Tzu's T-shirt 2 is all about comfort and style. Its lightweight fabric and sleek design make it an excellent choice for both leisure and active wear.",
             "maintenanceInfo": "Avoid hot water, bleach, and high-temperature drying to maintain the shirt's shape and color over time."
@@ -286,9 +286,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-1.jpg"
+                "/product-photos/men-t-shirt-6.jpg",
+                "/product-photos/men-t-shirt-5.jpg",
+                "/product-photos/men-t-shirt-4.jpg"
             ],
             "description": "T-shirt 3 from Sun Tzu blends innovative fabric technology with modern design to provide optimum durability and a stylish look suitable for various occasions.",
             "maintenanceInfo": "Machine wash on gentle cycle and hang to dry for best results. Do not use bleach."
@@ -303,9 +303,9 @@
             "pricePLN": 129,
             "priceUSD": 39,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-9.jpg",
+                "/product-photos/men-t-shirt-8.jpg",
+                "/product-photos/men-t-shirt-7.jpg"
             ],
             "description": "T-shirt 4 from Sun Tzu merges classic style with modern fabric technology, ensuring a breathable fit that stands up to the demands of daily wear.",
             "maintenanceInfo": "Machine wash gentle, avoid bleach, and hang to dry to maintain the integrity of the fabric."
@@ -320,9 +320,9 @@
             "pricePLN": 49,
             "priceUSD": 10,
             "photos": [
-                "/product-photos/man-t-shirt-1.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg"
+                "/product-photos/men-t-shirt-1.jpg",
+                "/product-photos/men-t-shirt-2.jpg",
+                "/product-photos/men-t-shirt-3.jpg"
             ],
             "description": "This T-Shirt by Top Brand is designed to offer comfort and longevity, ideal for both everyday wear and special casual occasions.",
             "maintenanceInfo": "Wash in cold water with like colors and tumble dry on low; iron on cool if necessary."
@@ -337,9 +337,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-4.jpg",
+                "/product-photos/men-t-shirt-5.jpg",
+                "/product-photos/men-t-shirt-6.jpg"
             ],
             "description": "Experience the ultimate in comfort with T-shirt 2 from Sun Tzu, designed with a unique blend of materials that ensure flexibility and breathability.",
             "maintenanceInfo": "To maintain the quality of this garment, wash on a gentle cycle and line dry."
@@ -354,9 +354,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-1.jpg"
+                "/product-photos/men-t-shirt-7.jpg",
+                "/product-photos/men-t-shirt-8.jpg",
+                "/product-photos/men-t-shirt-9.jpg"
             ],
             "description": "T-shirt 3 by Sun Tzu is crafted for the active lifestyle, featuring a stretchable fabric that moves with you and a quick-dry technology to keep you cool.",
             "maintenanceInfo": "Machine wash cold with similar colors, do not bleach, tumble dry low."
@@ -371,9 +371,9 @@
             "pricePLN": 129,
             "priceUSD": 39,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-2.jpg",
+                "/product-photos/men-t-shirt-1.jpg",
+                "/product-photos/men-t-shirt-3.jpg"
             ],
             "description": "Sun Tzu's T-shirt 4 is perfect for those who value both form and function, with its durable fabric that resists wear and tear.",
             "maintenanceInfo": "For best care, wash in warm water, dry on low heat, and iron on medium if needed."
@@ -388,9 +388,9 @@
             "pricePLN": 49,
             "priceUSD": 10,
             "photos": [
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-1.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-5.jpg",
+                "/product-photos/men-t-shirt-4.jpg",
+                "/product-photos/men-t-shirt-6.jpg"
             ],
             "description": "This classic T-Shirt by Top Brand is designed for ultimate comfort and durability, perfect for everyday wear or casual outings.",
             "maintenanceInfo": "For best results, wash this t-shirt in cold water and line dry to maintain its shape and color."
@@ -405,9 +405,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-8.jpg",
+                "/product-photos/men-t-shirt-7.jpg",
+                "/product-photos/men-t-shirt-9.jpg"
             ],
             "description": "T-shirt 2 from Sun Tzu features innovative fabric technology that offers enhanced breathability and moisture-wicking properties for active or leisure use.",
             "maintenanceInfo": "Machine wash on a gentle cycle and tumble dry on low. Avoid ironing directly on the print."
@@ -422,9 +422,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-1.jpg"
+                "/product-photos/men-t-shirt-3.jpg",
+                "/product-photos/men-t-shirt-2.jpg",
+                "/product-photos/men-t-shirt-1.jpg"
             ],
             "description": "T-shirt 3 by Sun Tzu is crafted for comfort and style, combining traditional design with modern fabric enhancements for superior fit and feel.",
             "maintenanceInfo": "Wash this garment inside out to protect the fabric surface and print. Do not bleach."
@@ -439,9 +439,9 @@
             "pricePLN": 129,
             "priceUSD": 39,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-6.jpg",
+                "/product-photos/men-t-shirt-5.jpg",
+                "/product-photos/men-t-shirt-4.jpg"
             ],
             "description": "This fashion-forward T-shirt 4 from Sun Tzu is designed with an eye for detail, featuring a sleek, minimalist look that doesn't compromise on comfort.",
             "maintenanceInfo": "To maintain the pristine condition of this t-shirt, avoid high heat in washing or drying. Iron on the reverse side."
@@ -456,9 +456,9 @@
             "pricePLN": 49,
             "priceUSD": 10,
             "photos": [
-                "/product-photos/man-t-shirt-1.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg"
+                "/product-photos/men-t-shirt-9.jpg",
+                "/product-photos/men-t-shirt-8.jpg",
+                "/product-photos/men-t-shirt-7.jpg"
             ],
             "description": "Enhance your wardrobe with the Top Brand T-Shirt, blending a contemporary fit with the softness and resilience needed for both active days and relaxation.",
             "maintenanceInfo": "Cold wash and gentle cycle recommended. Dry at low temperatures and iron gently if needed."
@@ -473,9 +473,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-1.jpg",
+                "/product-photos/men-t-shirt-2.jpg",
+                "/product-photos/men-t-shirt-3.jpg"
             ],
             "description": "Return to the essentials with Sun Tzu's T-shirt 2, designed for optimal comfort and long-lasting wear. Perfect for those who value quality and simplicity.",
             "maintenanceInfo": "For lasting use, avoid using bleach and do not dry clean. Iron on low heat if necessary."
@@ -490,9 +490,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-1.jpg"
+                "/product-photos/men-t-shirt-4.jpg",
+                "/product-photos/men-t-shirt-5.jpg",
+                "/product-photos/men-t-shirt-6.jpg"
             ],
             "description": "Sun Tzu's T-shirt 3 is the perfect blend of classic style and modern performance, ideal for both sport and casual wear.",
             "maintenanceInfo": "Machine washable at 30°C, tumble dry on a low setting. Avoid direct ironing on print."
@@ -507,9 +507,9 @@
             "pricePLN": 129,
             "priceUSD": 39,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-7.jpg",
+                "/product-photos/men-t-shirt-8.jpg",
+                "/product-photos/men-t-shirt-9.jpg"
             ],
             "description": "T-shirt 4 from Sun Tzu offers an advanced design with a focus on mobility and comfort, making it a top choice for daily activities.",
             "maintenanceInfo": "Use a mild detergent and cool water for washing. Dry flat for best results."
@@ -524,9 +524,9 @@
             "pricePLN": 49,
             "priceUSD": 10,
             "photos": [
-                "/product-photos/man-t-shirt-1.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg"
+                "/product-photos/men-t-shirt-2.jpg",
+                "/product-photos/men-t-shirt-1.jpg",
+                "/product-photos/men-t-shirt-3.jpg"
             ],
             "description": "Crafted for simplicity and comfort, the Top Brand T-Shirt is your go-to option for a relaxed yet refined look.",
             "maintenanceInfo": "Simple care is best: wash in cool water, avoid high heat drying, and iron on a low setting only when necessary."
@@ -541,9 +541,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-5.jpg",
+                "/product-photos/men-t-shirt-4.jpg",
+                "/product-photos/men-t-shirt-6.jpg"
             ],
             "description": "Opt for T-shirt 2 from Sun Tzu for its superior durability and sophisticated styling that doesn’t sacrifice comfort.",
             "maintenanceInfo": "Machine wash cold with similar colors. Do not bleach. Hang dry for best results."
@@ -558,9 +558,9 @@
             "pricePLN": 129,
             "priceUSD": 39,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-8.jpg",
+                "/product-photos/men-t-shirt-7.jpg",
+                "/product-photos/men-t-shirt-9.jpg"
             ],
             "description": "Experience unparalleled comfort and style with our men's T-shirt, featuring high-quality fabric and a classic cut. Perfect for both casual and formal occasions.",
             "maintenanceInfo": "For best care, machine wash in warm water, avoid using bleach, and tumble dry on low."
@@ -575,9 +575,9 @@
             "pricePLN": 49,
             "priceUSD": 10,
             "photos": [
-                "/product-photos/man-t-shirt-1.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg"
+                "/product-photos/men-t-shirt-3.jpg",
+                "/product-photos/men-t-shirt-2.jpg",
+                "/product-photos/men-t-shirt-1.jpg"
             ],
             "description": "Crafted for comfort and durability, our essential T-shirt is a must-have in every wardrobe. It's versatile for both everyday wear and layering.",
             "maintenanceInfo": "Machine wash cold with like colors, tumble dry low. Do not iron the print."
@@ -592,9 +592,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-6.jpg",
+                "/product-photos/men-t-shirt-5.jpg",
+                "/product-photos/men-t-shirt-4.jpg"
             ],
             "description": "Our premium T-shirt blends style with practicality, making it an excellent choice for any activity. Features a soft texture and resilient fabric.",
             "maintenanceInfo": "Wash separately in cold water, hang dry, avoid bleach to maintain color integrity."
@@ -609,9 +609,9 @@
             "pricePLN": 199,
             "priceUSD": 49,
             "photos": [
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-1.jpg"
+                "/product-photos/men-t-shirt-9.jpg",
+                "/product-photos/men-t-shirt-8.jpg",
+                "/product-photos/men-t-shirt-7.jpg"
             ],
             "description": "Strike the perfect balance between casual and stylish with our soft, breathable T-shirt, designed for all-day comfort and lasting wear.",
             "maintenanceInfo": "Gentle cycle in washing machine, use non-chlorine bleach if needed, line dry in shade."
@@ -626,12 +626,97 @@
             "pricePLN": 129,
             "priceUSD": 39,
             "photos": [
-                "/product-photos/man-t-shirt-4.jpg",
-                "/product-photos/man-t-shirt-3.jpg",
-                "/product-photos/man-t-shirt-4.jpg"
+                "/product-photos/men-t-shirt-1.jpg",
+                "/product-photos/men-t-shirt-2.jpg",
+                "/product-photos/men-t-shirt-3.jpg"
             ],
             "description": "Step up your style with our designer T-shirt, featuring exclusive prints and a tailored fit. Ideal for a sharp, modern look.",
             "maintenanceInfo": "Wash in mild detergent, avoid high heat, dry flat away from direct sunlight."
+        },
+        {
+            "id": 100,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Classic Oxford",
+            "brand": "Elite Maker",
+            "pricePLN": 199,
+            "priceUSD": 49,
+            "photos": [
+                "/product-photos/men-shoes-1.jpg",
+                "/product-photos/men-shoes-2.jpg",
+                "/product-photos/men-shoes-3.jpg"
+            ],
+            "description": "Our Classic Oxford shoes offer a timeless design perfect for any formal occasion. Crafted with premium leather, they ensure both style and durability. The sleek silhouette and fine stitching detail make these shoes a must-have for any gentleman's wardrobe. Pair them with a suit or dress pants for a polished and professional look.",
+            "maintenanceInfo": "Polish regularly to maintain the shine and suppleness of the leather. Store in a cool, dry place to avoid moisture damage. Use shoe trees to help retain the shape of the shoes. Avoid exposure to direct sunlight to prevent discoloration."
+        },
+        {
+            "id": 101,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Leather Loafers",
+            "brand": "Luxury Footwear",
+            "pricePLN": 179,
+            "priceUSD": 45,
+            "photos": [
+                "/product-photos/men-shoes-2.jpg",
+                "/product-photos/men-shoes-3.jpg",
+                "/product-photos/men-shoes-1.jpg"
+            ],
+            "description": "These Leather Loafers are designed for both comfort and sophistication. Perfect for business meetings and formal events, they offer a sleek and stylish look. The slip-on design provides convenience without sacrificing elegance. Made from high-quality leather, these loafers are built to last and add a touch of luxury to any outfit.",
+            "maintenanceInfo": "Clean with a damp cloth to remove dirt and dust. Use leather conditioner to keep the leather soft and supple. Store with shoe trees to maintain shape and prevent creases. Avoid getting the shoes wet and dry them naturally if they do get wet."
+        },
+        {
+            "id": 102,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Derby Shoes",
+            "brand": "Fine Footwear",
+            "pricePLN": 189,
+            "priceUSD": 47,
+            "photos": [
+                "/product-photos/men-shoes-3.jpg",
+                "/product-photos/men-shoes-1.jpg",
+                "/product-photos/men-shoes-2.jpg"
+            ],
+            "description": "Derby Shoes from Fine Footwear offer a perfect blend of elegance and comfort. Suitable for both formal and semi-formal occasions, these shoes are a versatile addition to any wardrobe. The open-lacing system ensures a comfortable fit, making them ideal for all-day wear. Their classic design complements a wide range of outfits, from suits to smart casual attire.",
+            "maintenanceInfo": "Wipe clean with a soft cloth to remove any surface dirt. Apply a suitable leather polish to keep the shoes looking their best. Store in a shoe bag to protect them from dust when not in use. Use shoe trees to help maintain the shape and prevent creasing."
+        },
+        {
+            "id": 103,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Monk Strap Shoes",
+            "brand": "Sophisticated Steps",
+            "pricePLN": 209,
+            "priceUSD": 53,
+            "photos": [
+                "/product-photos/men-shoes-1.jpg",
+                "/product-photos/men-shoes-3.jpg",
+                "/product-photos/men-shoes-2.jpg"
+            ],
+            "description": "These Monk Strap Shoes from Sophisticated Steps bring a modern touch to a classic style. Ideal for formal events, they provide a unique and refined look. The double buckle design adds a distinctive element, setting them apart from traditional dress shoes. Crafted with precision, these shoes offer superior comfort and durability.",
+            "maintenanceInfo": "Use a soft brush to clean off any dust or dirt. Apply leather conditioner to maintain the leather's natural oils and prevent cracking. Store with shoe trees to retain the shape and absorb moisture. Keep them away from direct sunlight and heat sources to avoid drying out the leather."
+        },
+        {
+            "id": 104,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "elegant",
+            "productName": "Wingtip Brogues",
+            "brand": "Premium Sole",
+            "pricePLN": 219,
+            "priceUSD": 55,
+            "photos": [
+                "/product-photos/men-shoes-2.jpg",
+                "/product-photos/men-shoes-1.jpg",
+                "/product-photos/men-shoes-3.jpg"
+            ],
+            "description": "Premium Sole's Wingtip Brogues combine classic detailing with modern elegance. Perfect for formal and business attire, these shoes offer a polished and sophisticated look. The intricate brogue detailing adds a touch of class, while the high-quality leather ensures long-lasting wear. These brogues are versatile enough to be paired with a variety of outfits, making them a valuable addition to your shoe collection.",
+            "maintenanceInfo": "Wipe clean with a damp cloth to remove any dirt. Polish regularly to maintain the shine and enhance the leather's natural beauty. Use shoe trees to help maintain the shape and prevent creasing. Store in a cool, dry place to protect the leather from moisture and humidity."
         },
         {
             "id": 26,
@@ -674,8 +759,8 @@
             "priceUSD": 59,
             "photos": [
                 "/product-photos/women-sweater-1.jpg",
-                "/product-photos/women-shoes-2.jpg",
-                "/product-photos/women-trousers-1.jpg"
+                "/product-photos/women-sweater-2.jpg",
+                "/product-photos/women-sweater-3.jpg"
             ],
             "description": "Cozy up in our luxurious white sweater, crafted with premium fibers for ultimate warmth and comfort. Ideal for chilly days.",
             "maintenanceInfo": "Hand wash in cold water, lay flat to dry, do not wring."
@@ -692,7 +777,7 @@
             "photos": [
                 "/product-photos/women-trousers-1.jpg",
                 "/product-photos/women-trousers-2.jpg",
-                "/product-photos/women-trousers-2.jpg"
+                "/product-photos/women-trousers-3.jpg"
             ],
             "description": "Discover the perfect blend of comfort and elegance with our tailored trousers. Designed for versatility, they can be dressed up or down.",
             "maintenanceInfo": "Machine washable at 30°C, iron at medium temperature, suitable for dry cleaning."
@@ -725,8 +810,8 @@
             "priceUSD": 59,
             "photos": [
                 "/product-photos/women-sweater-1.jpg",
-                "/product-photos/women-sweater-1.jpg",
-                "/product-photos/women-sweater-1.jpg"
+                "/product-photos/women-sweater-2.jpg",
+                "/product-photos/women-sweater-3.jpg"
             ],
             "description": "Embrace warmth and style with this luxurious white sweater, crafted from high-quality materials for a cozy, fashionable fit.",
             "maintenanceInfo": "Hand wash in cold water, dry flat, do not iron or use bleach."
@@ -741,8 +826,8 @@
             "pricePLN": 299,
             "priceUSD": 59,
             "photos": [
-                "/product-photos/women-sweater-1.jpg",
-                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-3.jpg",
+                "/product-photos/women-sweater-2.jpg",
                 "/product-photos/women-sweater-1.jpg"
             ],
             "description": "Luxurious and soft, this white sweater is a versatile addition to your wardrobe, ideal for layering in cooler weather.",
