@@ -804,6 +804,91 @@
             "maintenanceInfo": "Use a soft brush to remove any dirt from the mesh upper. Clean spots with a damp cloth and mild soap. Allow the trainers to air dry away from direct heat sources. Store in a cool, dry place to prevent the material from breaking down."
         },
         {
+            "id": 110,
+            "gender": "men",
+            "category": "accessories",
+            "subcategory": "bags",
+            "productName": "Leather Briefcase",
+            "brand": "Executive Choice",
+            "pricePLN": 299,
+            "priceUSD": 75,
+            "photos": [
+                "/product-photos/men-bag-1.jpg",
+                "/product-photos/men-bag-2.jpg",
+                "/product-photos/men-bag-3.jpg"
+            ],
+            "description": "The Leather Briefcase from Executive Choice is the epitome of professional elegance. Crafted from high-quality leather, this briefcase offers ample space for all your business essentials. It features multiple compartments to keep your documents, laptop, and accessories organized. The classic design and durable construction make it a timeless addition to your professional wardrobe.",
+            "maintenanceInfo": "Clean the leather with a soft, damp cloth and mild soap. Avoid using harsh chemicals or soaking the leather. Regularly apply a leather conditioner to keep the material soft and prevent cracking. Store the briefcase in a cool, dry place away from direct sunlight to maintain its color and quality."
+        },
+        {
+            "id": 111,
+            "gender": "men",
+            "category": "accessories",
+            "subcategory": "bags",
+            "productName": "Canvas Messenger Bag",
+            "brand": "Urban Explorer",
+            "pricePLN": 199,
+            "priceUSD": 50,
+            "photos": [
+                "/product-photos/men-bag-2.jpg",
+                "/product-photos/men-bag-3.jpg",
+                "/product-photos/men-bag-1.jpg"
+            ],
+            "description": "The Canvas Messenger Bag by Urban Explorer combines style and functionality. Ideal for daily use, this bag is spacious enough to carry your laptop, books, and other essentials. The durable canvas material and adjustable shoulder strap provide comfort and longevity. Its casual design makes it perfect for both work and weekend outings.",
+            "maintenanceInfo": "Wipe the canvas clean with a damp cloth to remove dirt and stains. For deeper cleaning, hand wash with mild detergent and air dry. Avoid machine washing to prevent damage. Store the bag in a dry place to avoid mildew and material degradation."
+        },
+        {
+            "id": 112,
+            "gender": "men",
+            "category": "accessories",
+            "subcategory": "bags",
+            "productName": "Travel Duffel Bag",
+            "brand": "Jetsetter Gear",
+            "pricePLN": 259,
+            "priceUSD": 65,
+            "photos": [
+                "/product-photos/men-bag-3.jpg",
+                "/product-photos/men-bag-1.jpg",
+                "/product-photos/men-bag-2.jpg"
+            ],
+            "description": "Jetsetter Gear's Travel Duffel Bag is perfect for your weekend getaways and short trips. Made from durable materials, this bag features a spacious main compartment and several pockets for organized packing. The sturdy handles and detachable shoulder strap offer versatile carrying options. Its sleek design and practicality make it a great travel companion.",
+            "maintenanceInfo": "Spot clean the bag with a damp cloth and mild soap. For stubborn stains, use a gentle brush. Air dry the bag thoroughly before storing. Avoid overloading the bag to maintain its shape and prevent strain on the seams. Store in a cool, dry place."
+        },
+        {
+            "id": 113,
+            "gender": "men",
+            "category": "accessories",
+            "subcategory": "bags",
+            "productName": "Backpack",
+            "brand": "Active Gear",
+            "pricePLN": 179,
+            "priceUSD": 45,
+            "photos": [
+                "/product-photos/men-bag-1.jpg",
+                "/product-photos/men-bag-3.jpg",
+                "/product-photos/men-bag-2.jpg"
+            ],
+            "description": "Active Gear's Backpack is designed for both urban and outdoor use. It features multiple compartments, including a padded laptop sleeve, to keep your belongings secure and organized. The ergonomic design with padded straps ensures comfortable carrying, even on long journeys. Its durable construction and modern look make it a versatile choice for any activity.",
+            "maintenanceInfo": "Clean the backpack with a damp cloth to remove dirt and grime. For deeper cleaning, hand wash with mild detergent and air dry. Do not machine wash or tumble dry. Regularly check and tighten straps and zippers to ensure they function properly. Store the backpack in a dry place to avoid mildew."
+        },
+        {
+            "id": 114,
+            "gender": "men",
+            "category": "accessories",
+            "subcategory": "bags",
+            "productName": "Slim Portfolio",
+            "brand": "Professional Essentials",
+            "pricePLN": 149,
+            "priceUSD": 37,
+            "photos": [
+                "/product-photos/men-bag-2.jpg",
+                "/product-photos/men-bag-1.jpg",
+                "/product-photos/men-bag-3.jpg"
+            ],
+            "description": "The Slim Portfolio from Professional Essentials is perfect for the modern professional on the go. This sleek and compact bag can hold your documents, tablet, and other small essentials. Made from high-quality materials, it offers both durability and style. The minimalist design and efficient organization make it a must-have for business meetings and daily commutes.",
+            "maintenanceInfo": "Wipe the exterior with a damp cloth to clean. For tougher stains, use a mild soap solution and a soft brush. Avoid exposure to extreme temperatures and direct sunlight. Store the portfolio in a protective cover or dust bag to maintain its appearance and longevity."
+        },
+        {
             "id": 26,
             "gender": "women",
             "category": "footwear",
