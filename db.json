@@ -719,6 +719,91 @@
             "maintenanceInfo": "Wipe clean with a damp cloth to remove any dirt. Polish regularly to maintain the shine and enhance the leather's natural beauty. Use shoe trees to help maintain the shape and prevent creasing. Store in a cool, dry place to protect the leather from moisture and humidity."
         },
         {
+            "id": 105,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Athletic Sneakers",
+            "brand": "Sporty Edge",
+            "pricePLN": 149,
+            "priceUSD": 37,
+            "photos": [
+                "/product-photos/men-sneakers-1.jpg",
+                "/product-photos/men-sneakers-2.jpg",
+                "/product-photos/men-sneakers-3.jpg"
+            ],
+            "description": "Our Athletic Sneakers from Sporty Edge are designed for high performance and maximum comfort. Perfect for running, gym workouts, or casual wear, these sneakers provide excellent support and cushioning. The breathable mesh upper ensures your feet stay cool and dry during intense activities. With a stylish design, these sneakers are as fashionable as they are functional.",
+            "maintenanceInfo": "Clean the sneakers with a soft brush to remove dirt and dust. Air them out after each use to prevent odors. Avoid submerging in water; instead, spot clean with a damp cloth. Store in a cool, dry place to maintain their shape and longevity."
+        },
+        {
+            "id": 106,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Casual Low-Tops",
+            "brand": "Urban Walk",
+            "pricePLN": 129,
+            "priceUSD": 32,
+            "photos": [
+                "/product-photos/men-sneakers-2.jpg",
+                "/product-photos/men-sneakers-3.jpg",
+                "/product-photos/men-sneakers-1.jpg"
+            ],
+            "description": "The Casual Low-Tops from Urban Walk are perfect for everyday wear. These versatile sneakers feature a sleek design that pairs well with jeans, shorts, or casual pants. The durable rubber sole provides excellent traction and durability. Comfortable and stylish, these sneakers are a must-have for your casual wardrobe.",
+            "maintenanceInfo": "Wipe clean with a damp cloth to remove any surface dirt. Allow them to air dry naturally. Use a shoe cleaner for deeper cleaning, if necessary. Store away from direct sunlight to prevent fading and material degradation."
+        },
+        {
+            "id": 107,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "High-Performance Runners",
+            "brand": "ProActive",
+            "pricePLN": 169,
+            "priceUSD": 42,
+            "photos": [
+                "/product-photos/men-sneakers-3.jpg",
+                "/product-photos/men-sneakers-1.jpg",
+                "/product-photos/men-sneakers-2.jpg"
+            ],
+            "description": "ProActive's High-Performance Runners are engineered for serious athletes. Featuring advanced cushioning and a lightweight design, these sneakers are ideal for long-distance running and intense training sessions. The responsive sole offers excellent energy return, helping you achieve your best performance. Stylish and functional, these runners are a great addition to any athlete's gear.",
+            "maintenanceInfo": "Remove excess dirt with a dry brush after each use. Hand wash with mild soap and water, and air dry completely before wearing again. Avoid using harsh chemicals or machine washing. Store in a cool, dry place to maintain their structure and performance."
+        },
+        {
+            "id": 108,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Retro Sneakers",
+            "brand": "Vintage Kicks",
+            "pricePLN": 139,
+            "priceUSD": 34,
+            "photos": [
+                "/product-photos/men-sneakers-1.jpg",
+                "/product-photos/men-sneakers-3.jpg",
+                "/product-photos/men-sneakers-2.jpg"
+            ],
+            "description": "Vintage Kicks' Retro Sneakers bring a touch of nostalgia with their classic design. These sneakers combine old-school style with modern comfort, making them perfect for casual outings and everyday wear. The cushioned insole and durable outsole ensure long-lasting comfort and support. Make a fashion statement with these timeless sneakers.",
+            "maintenanceInfo": "Clean with a soft brush to remove dust and dirt. Use a damp cloth for spot cleaning and let them air dry. Avoid direct sunlight to preserve the color and material. Store with shoe trees to help maintain their shape."
+        },
+        {
+            "id": 109,
+            "gender": "men",
+            "category": "footwear",
+            "subcategory": "sneakers",
+            "productName": "Mesh Trainers",
+            "brand": "ActiveWear",
+            "pricePLN": 159,
+            "priceUSD": 40,
+            "photos": [
+                "/product-photos/men-sneakers-2.jpg",
+                "/product-photos/men-sneakers-1.jpg",
+                "/product-photos/men-sneakers-3.jpg"
+            ],
+            "description": "ActiveWear's Mesh Trainers are designed for breathability and flexibility. Perfect for gym sessions, sports, or casual wear, these trainers offer superior comfort and performance. The lightweight mesh upper allows for maximum airflow, keeping your feet cool. The flexible sole provides excellent grip and mobility.",
+            "maintenanceInfo": "Use a soft brush to remove any dirt from the mesh upper. Clean spots with a damp cloth and mild soap. Allow the trainers to air dry away from direct heat sources. Store in a cool, dry place to prevent the material from breaking down."
+        },
+        {
             "id": 26,
             "gender": "women",
             "category": "footwear",
