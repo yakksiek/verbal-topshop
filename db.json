@@ -889,6 +889,40 @@
             "maintenanceInfo": "Wipe the exterior with a damp cloth to clean. For tougher stains, use a mild soap solution and a soft brush. Avoid exposure to extreme temperatures and direct sunlight. Store the portfolio in a protective cover or dust bag to maintain its appearance and longevity."
         },
         {
+            "id": 115,
+            "gender": "men",
+            "category": "accessories",
+            "subcategory": "watches",
+            "productName": "Classic Leather Watch",
+            "brand": "Timeless Elegance",
+            "pricePLN": 399,
+            "priceUSD": 100,
+            "photos": [
+                "/product-photos/men-watch-1.jpg",
+                "/product-photos/men-watch-2.jpg",
+                "/product-photos/men-watch-3.jpg"
+            ],
+            "description": "The Classic Leather Watch from Timeless Elegance embodies sophistication and style. Featuring a high-quality leather strap and a sleek stainless steel case, this watch is perfect for both formal and casual occasions. The minimalist dial design with clear markers ensures easy readability. This timeless piece is a must-have accessory for any discerning gentleman.",
+            "maintenanceInfo": "Avoid exposing the leather strap to water and moisture to prevent damage. Clean the strap with a soft, dry cloth and apply leather conditioner periodically. Wipe the watch case and glass with a microfiber cloth to remove fingerprints and smudges. Store the watch in a cool, dry place when not in use, and keep it away from direct sunlight to prevent discoloration."
+        },
+        {
+            "id": 116,
+            "gender": "men",
+            "category": "accessories",
+            "subcategory": "watches",
+            "productName": "Sport Chronograph Watch",
+            "brand": "Performance Time",
+            "pricePLN": 499,
+            "priceUSD": 125,
+            "photos": [
+                "/product-photos/men-watch-2.jpg",
+                "/product-photos/men-watch-3.jpg",
+                "/product-photos/men-watch-1.jpg"
+            ],
+            "description": "The Sport Chronograph Watch by Performance Time is designed for the active man who values precision and style. This watch features a robust stainless steel case, a durable rubber strap, and a multifunctional chronograph dial. It is water-resistant up to 100 meters, making it suitable for swimming and other water activities. The luminous hands and markers ensure readability in low-light conditions.",
+            "maintenanceInfo": "Clean the rubber strap regularly with mild soap and water, then rinse and dry thoroughly. Avoid exposing the watch to extreme temperatures or harsh chemicals. Use a soft, dry cloth to clean the watch case and glass. If the watch is exposed to saltwater, rinse it with fresh water and dry it completely. Store the watch in a protective case when not in use to prevent scratches and damage."
+        },
+        {
             "id": 26,
             "gender": "women",
             "category": "footwear",
