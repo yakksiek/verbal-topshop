@@ -1081,8 +1081,8 @@
             "pricePLN": 299,
             "priceUSD": 59,
             "photos": [
-                "/product-photos/women-sweater-1.jpg",
                 "/product-photos/women-sweater-2.jpg",
+                "/product-photos/women-sweater-1.jpg",
                 "/product-photos/women-sweater-3.jpg"
             ],
             "description": "Embrace warmth and style with this luxurious white sweater, crafted from high-quality materials for a cozy, fashionable fit.",
@@ -1115,9 +1115,9 @@
             "pricePLN": 149,
             "priceUSD": 39,
             "photos": [
-                "/product-photos/women-trousers-1.jpg",
+                "/product-photos/women-trousers-3.jpg",
                 "/product-photos/women-trousers-2.jpg",
-                "/product-photos/women-trousers-2.jpg"
+                "/product-photos/women-trousers-1.jpg"
             ],
             "description": "Modern and chic, these trousers are tailored for a flattering fit, perfect for work or weekend outings.",
             "maintenanceInfo": "Machine washable, hang to dry, iron at low temperature."
@@ -1149,8 +1149,8 @@
             "pricePLN": 299,
             "priceUSD": 59,
             "photos": [
-                "/product-photos/women-sweater-1.jpg",
-                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-3.jpg",
+                "/product-photos/women-sweater-2.jpg",
                 "/product-photos/women-sweater-1.jpg"
             ],
             "description": "This white sweater offers timeless elegance with its refined design and soft texture, perfect for adding a touch of class to any outfit.",
@@ -1166,9 +1166,9 @@
             "pricePLN": 149,
             "priceUSD": 39,
             "photos": [
-                "/product-photos/women-trousers-1.jpg",
+                "/product-photos/women-trousers-3.jpg",
                 "/product-photos/women-trousers-2.jpg",
-                "/product-photos/women-trousers-2.jpg"
+                "/product-photos/women-trousers-1.jpg"
             ],
             "description": "Tailored for a sleek silhouette, these trousers offer both style and comfort for your daily wardrobe or professional settings.",
             "maintenanceInfo": "Machine washable in cold water; do not bleach; iron on low heat."
@@ -1217,8 +1217,8 @@
             "pricePLN": 299,
             "priceUSD": 59,
             "photos": [
-                "/product-photos/women-sweater-1.jpg",
-                "/product-photos/women-sweater-1.jpg",
+                "/product-photos/women-sweater-2.jpg",
+                "/product-photos/women-sweater-3.jpg",
                 "/product-photos/women-sweater-1.jpg"
             ],
             "description": "This white sweater is your new go-to piece for layering. Made from plush materials, it provides warmth and style without bulk.",
@@ -1234,8 +1234,8 @@
             "pricePLN": 149,
             "priceUSD": 39,
             "photos": [
+                "/product-photos/women-trousers-3.jpg",
                 "/product-photos/women-trousers-1.jpg",
-                "/product-photos/women-trousers-2.jpg",
                 "/product-photos/women-trousers-2.jpg"
             ],
             "description": "Our stylish and comfortable trousers are crafted to enhance your everyday look. The perfect addition to your casual or work attire.",
@@ -1252,8 +1252,8 @@
             "priceUSD": 59,
             "photos": [
                 "/product-photos/women-sweater-1.jpg",
-                "/product-photos/women-sweater-1.jpg",
-                "/product-photos/women-sweater-1.jpg"
+                "/product-photos/women-sweater-2.jpg",
+                "/product-photos/women-sweater-3.jpg"
             ],
             "description": "Soft, luxurious, and effortlessly chic, this white sweater adds a touch of sophistication to any outfit. Its snug feel ensures you stay warm in style.",
             "maintenanceInfo": "Avoid bleach, wash with similar colors, and air dry to maintain the fabric's softness and color."
@@ -1270,7 +1270,7 @@
             "photos": [
                 "/product-photos/women-trousers-1.jpg",
                 "/product-photos/women-trousers-2.jpg",
-                "/product-photos/women-trousers-2.jpg"
+                "/product-photos/women-trousers-3.jpg"
             ],
             "description": "Versatile and fashionable, these trousers provide a perfect fit that flatters every figure. Ideal for office wear or a polished weekend look.",
             "maintenanceInfo": "Wash on gentle cycle, do not over-dry, keep away from harsh chemicals."
