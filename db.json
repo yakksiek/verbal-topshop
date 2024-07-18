@@ -47,7 +47,7 @@
                 "photos": [
                     "/product-photos/women-sweater-1.jpg",
                     "/product-photos/women-trousers-2.jpg",
-                    "/product-photos/women-trousers-1.jpg"
+                    "/product-photos/women-trousers-3.jpg"
                 ],
                 "description": "Cozy and comforting, the white sweater from Sun zi is knitted from premium fibers that provide warmth without sacrificing style.",
                 "maintenanceInfo": "Care and maintenance details retrieved from the backend."
@@ -642,10 +642,7 @@
             "brand": "Test Manufacturer",
             "pricePLN": 49,
             "priceUSD": 10,
-            "photos": [
-                "/product-photos/women-shoes-1.jpg",
-                "/product-photos/women-shoes-2.jpg"
-            ],
+            "photos": ["/product-photos/women-shoes-1.jpg", "/product-photos/women-shoes-2.jpg"],
             "description": "Elevate your evening look with our elegant heels, designed for sophistication and comfort. Perfect for special occasions.",
             "maintenanceInfo": "Keep in a dry place, use shoe polish for leather care, avoid water exposure."
         },
