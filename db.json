@@ -1756,10 +1756,5 @@
             "maintenanceInfo": "Machine wash cold with like colors. Tumble dry low. Use non-chlorine bleach if needed. Iron on low heat if necessary."
         }
     ],
-    "favourites": [
-        {
-            "productId": 1,
-            "id": 1
-        }
-    ]
+    "favourites": []
 }
