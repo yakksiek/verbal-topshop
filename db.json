@@ -923,6 +923,74 @@
             "maintenanceInfo": "Clean the rubber strap regularly with mild soap and water, then rinse and dry thoroughly. Avoid exposing the watch to extreme temperatures or harsh chemicals. Use a soft, dry cloth to clean the watch case and glass. If the watch is exposed to saltwater, rinse it with fresh water and dry it completely. Store the watch in a protective case when not in use to prevent scratches and damage."
         },
         {
+            "id": 117,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Classic Black Trousers",
+            "brand": "Elegance Wear",
+            "pricePLN": 199,
+            "priceUSD": 50,
+            "photos": [
+                "/product-photos/men-trousers-1.jpg",
+                "/product-photos/men-trousers-2.jpg",
+                "/product-photos/men-trousers-3.jpg"
+            ],
+            "description": "The Classic Black Trousers from Elegance Wear are perfect for both formal and casual occasions. Made from high-quality fabric, these trousers offer a slim fit design that ensures comfort and style. Featuring side pockets and a button closure, they are as functional as they are fashionable. These versatile trousers are a staple in any wardrobe.",
+            "maintenanceInfo": "Machine wash in cold water with like colors. Use a mild detergent and avoid bleach. Tumble dry on low heat or hang to dry. Iron on a medium setting if needed, and store in a cool, dry place to maintain their shape and color."
+        },
+        {
+            "id": 118,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Casual Chinos",
+            "brand": "Urban Style",
+            "pricePLN": 149,
+            "priceUSD": 37,
+            "photos": [
+                "/product-photos/men-trousers-4.jpg",
+                "/product-photos/men-trousers-5.jpg",
+                "/product-photos/men-trousers-6.jpg"
+            ],
+            "description": "Urban Style's Casual Chinos are designed for everyday wear. These trousers feature a relaxed fit and are made from a breathable cotton blend, ensuring comfort throughout the day. The versatile design makes them suitable for both casual outings and semi-formal events. Available in a range of colors, these chinos are a must-have for any man's wardrobe.",
+            "maintenanceInfo": "Wash with similar colors in cold water. Avoid using bleach or harsh chemicals. Tumble dry on low heat and remove promptly. Iron on a low setting if necessary to keep them looking crisp and neat."
+        },
+        {
+            "id": 119,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Formal Grey Slacks",
+            "brand": "Professional Attire",
+            "pricePLN": 249,
+            "priceUSD": 62,
+            "photos": [
+                "/product-photos/men-trousers-3.jpg",
+                "/product-photos/men-trousers-1.jpg",
+                "/product-photos/men-trousers-2.jpg"
+            ],
+            "description": "The Formal Grey Slacks from Professional Attire are tailored for a sophisticated and polished look. These trousers are crafted from a premium fabric blend that offers a comfortable fit and a refined appearance. Perfect for business meetings and formal events, they feature a classic cut with a modern twist. The grey color adds a touch of elegance to any outfit.",
+            "maintenanceInfo": "Dry clean recommended for best results. If machine washing, use cold water and a gentle cycle. Hang to dry and avoid direct sunlight. Iron on a low setting, and use a garment bag for storage to keep them in pristine condition."
+        },
+        {
+            "id": 120,
+            "gender": "men",
+            "category": "clothing",
+            "subcategory": "trousers",
+            "productName": "Slim Fit Khakis",
+            "brand": "Modern Man",
+            "pricePLN": 179,
+            "priceUSD": 45,
+            "photos": [
+                "/product-photos/men-trousers-6.jpg",
+                "/product-photos/men-trousers-4.jpg",
+                "/product-photos/men-trousers-5.jpg"
+            ],
+            "description": "Modern Man's Slim Fit Khakis are ideal for those who appreciate both style and comfort. These khakis feature a tapered leg and are made from a soft, durable fabric that moves with you. The versatile design makes them suitable for a variety of occasions, from casual Fridays at the office to weekend outings. The slim fit provides a modern and streamlined silhouette.",
+            "maintenanceInfo": "Machine wash in cold water with similar colors. Use a gentle detergent and avoid bleach. Tumble dry on low heat or hang to dry. Iron on a medium setting if needed, and store folded or on a hanger to maintain their shape."
+        },
+        {
             "id": 26,
             "gender": "women",
             "category": "footwear",
