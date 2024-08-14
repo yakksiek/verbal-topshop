@@ -6,8 +6,8 @@
                 "gender": "women",
                 "category": "footwear",
                 "subcategory": "elegant",
-                "productName": "High Heels",
-                "brand": "Test Producer",
+                "productName": "Stiletto Heels",
+                "brand": "Test Manufacturer",
                 "pricePLN": 49,
                 "priceUSD": 10,
                 "photos": [
@@ -15,15 +15,15 @@
                     "/product-photos/women-shoes-2.jpg",
                     "/product-photos/women-shoes-3.jpg"
                 ],
-                "description": "Elegant and sophisticated, these high heels from Test Producer are perfect for any formal occasion. Crafted with attention to detail, they ensure both style and comfort.",
-                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+                "description": "Elevate your evening look with our elegant heels, designed for sophistication and comfort. Perfect for special occasions.",
+                "maintenanceInfo": "Keep in a dry place, use shoe polish for leather care, avoid water exposure."
             },
             {
                 "id": 27,
                 "gender": "women",
                 "category": "footwear",
                 "subcategory": "elegant",
-                "productName": "High Heels 2",
+                "productName": "Platform Pumps",
                 "brand": "Another Producer",
                 "pricePLN": 149,
                 "priceUSD": 39,
@@ -32,42 +32,42 @@
                     "/product-photos/women-shoes-3.jpg",
                     "/product-photos/women-shoes-1.jpg"
                 ],
-                "description": "These chic high heels by Another Producer blend classic style with modern flair. Perfect for evenings out or business events, they offer unparalleled elegance.",
-                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+                "description": "Our latest collection heels feature a classic design with a modern twist, ensuring both style and comfort for any formal event.",
+                "maintenanceInfo": "Use a soft cloth to clean, store in a cool, dry place, and use shoe trees to maintain shape."
             },
             {
                 "id": 28,
                 "gender": "women",
                 "category": "clothing",
                 "subcategory": "sweaters",
-                "productName": "White Sweater",
-                "brand": "Sun zi",
+                "productName": "Cotton Crewneck",
+                "brand": "Sun Zi",
                 "pricePLN": 299,
                 "priceUSD": 59,
                 "photos": [
                     "/product-photos/women-sweater-1.jpg",
-                    "/product-photos/women-trousers-2.jpg",
-                    "/product-photos/women-trousers-3.jpg"
+                    "/product-photos/women-sweater-2.jpg",
+                    "/product-photos/women-sweater-3.jpg"
                 ],
-                "description": "Cozy and comforting, the white sweater from Sun zi is knitted from premium fibers that provide warmth without sacrificing style.",
-                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+                "description": "Cozy up in our luxurious white sweater, crafted with premium fibers for ultimate warmth and comfort. Ideal for chilly days.",
+                "maintenanceInfo": "Hand wash in cold water, lay flat to dry, do not wring."
             },
             {
                 "id": 29,
                 "gender": "women",
                 "category": "clothing",
                 "subcategory": "trousers",
-                "productName": "Trousers",
+                "productName": "Palazzo Pants",
                 "brand": "Shin-tzu",
                 "pricePLN": 149,
                 "priceUSD": 39,
                 "photos": [
                     "/product-photos/women-trousers-1.jpg",
-                    "/product-photos/women-trousers-3.jpg",
-                    "/product-photos/women-trousers-2.jpg"
+                    "/product-photos/women-trousers-2.jpg",
+                    "/product-photos/women-trousers-3.jpg"
                 ],
-                "description": "Tailored for a sleek silhouette, these trousers from Shin-tzu are versatile for both office wear and casual outings.",
-                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+                "description": "Discover the perfect blend of comfort and elegance with our tailored trousers. Designed for versatility, they can be dressed up or down.",
+                "maintenanceInfo": "Machine washable at 30°C, iron at medium temperature, suitable for dry cleaning."
             }
         ],
         "description": "Discover our premium range of women's apparel and accessories, designed to elevate your wardrobe with elegance and style.",
