@@ -68,6 +68,74 @@
                 ],
                 "description": "Discover the perfect blend of comfort and elegance with our tailored trousers. Designed for versatility, they can be dressed up or down.",
                 "maintenanceInfo": "Machine washable at 30°C, iron at medium temperature, suitable for dry cleaning."
+            },
+            {
+                "id": 34,
+                "gender": "women",
+                "category": "footwear",
+                "subcategory": "elegant",
+                "productName": "Ankle Strap Heels",
+                "brand": "Test Manufacturer",
+                "pricePLN": 49,
+                "priceUSD": 10,
+                "photos": [
+                    "/product-photos/women-shoes-1.jpg",
+                    "/product-photos/women-shoes-2.jpg",
+                    "/product-photos/women-shoes-3.jpg"
+                ],
+                "description": "Step into elegance with these sleek, stylish heels, perfect for any formal occasion. Designed for comfort and lasting wear.",
+                "maintenanceInfo": "To maintain appearance, avoid water and direct heat. Use a soft brush for cleaning."
+            },
+            {
+                "id": 35,
+                "gender": "women",
+                "category": "clothing",
+                "subcategory": "sweaters",
+                "productName": "Breathable Cotton Sweater",
+                "brand": "Sun Zi",
+                "pricePLN": 299,
+                "priceUSD": 59,
+                "photos": [
+                    "/product-photos/women-sweater-2.jpg",
+                    "/product-photos/women-sweater-1.jpg",
+                    "/product-photos/women-sweater-3.jpg"
+                ],
+                "description": "Embrace warmth and style with this luxurious white sweater, crafted from high-quality materials for a cozy, fashionable fit.",
+                "maintenanceInfo": "Hand wash in cold water, dry flat, do not iron or use bleach."
+            },
+            {
+                "id": 36,
+                "gender": "women",
+                "category": "clothing",
+                "subcategory": "sweaters",
+                "productName": "Cashmere Wool Pullover",
+                "brand": "Sun Zi",
+                "pricePLN": 299,
+                "priceUSD": 59,
+                "photos": [
+                    "/product-photos/women-sweater-3.jpg",
+                    "/product-photos/women-sweater-2.jpg",
+                    "/product-photos/women-sweater-1.jpg"
+                ],
+                "description": "Luxurious and soft, this white sweater is a versatile addition to your wardrobe, ideal for layering in cooler weather.",
+                "maintenanceInfo": "Machine wash gentle cycle, lay flat to dry, use mild detergent."
+            },
+            {
+                "id": 37,
+                "gender": "women",
+                "category": "clothing",
+                "subcategory": "trousers",
+                "productName": "Wide-Leg Trousers",
+                "brand": "Shin-tzu",
+                "pricePLN": 149,
+                "priceUSD": 39,
+                "photos": [
+                    "/product-photos/women-trousers-3.jpg",
+                    "/product-photos/women-trousers-2.jpg",
+                    "/product-photos/women-trousers-1.jpg"
+                ],
+                "description": "Modern and chic, these trousers are tailored for a flattering fit, perfect for work or weekend outings.",
+                "maintenanceInfo": "Machine washable, hang to dry, iron at low temperature."
             }
         ],
         "description": "Discover our premium range of women's apparel and accessories, designed to elevate your wardrobe with elegance and style.",
@@ -144,6 +212,74 @@
                 ],
                 "description": "Experience the perfect blend of comfort and style with the Trendy Top from Sun Tzu, ideal for both casual and formal settings.",
                 "maintenanceInfo": "For best results, wash in cold water on a gentle cycle. Use a mild detergent and avoid fabric softeners. Tumble dry on low or hang to dry. Iron on medium heat if needed."
+            },
+            {
+                "id": 5,
+                "gender": "men",
+                "category": "clothing",
+                "subcategory": "t-shirts",
+                "productName": "Softwear Tee",
+                "brand": "Sun Tzu",
+                "pricePLN": 129,
+                "priceUSD": 39,
+                "photos": [
+                    "/product-photos/men-t-shirt-9.jpg",
+                    "/product-photos/men-t-shirt-8.jpg",
+                    "/product-photos/men-t-shirt-7.jpg"
+                ],
+                "description": "Softwear Tee from Sun Tzu merges classic style with modern fabric technology, ensuring a breathable fit that stands up to the demands of daily wear.",
+                "maintenanceInfo": "Machine wash gentle, avoid bleach, and hang to dry to maintain the integrity of the fabric."
+            },
+            {
+                "id": 6,
+                "gender": "men",
+                "category": "clothing",
+                "subcategory": "t-shirts",
+                "productName": "Vintage Tee",
+                "brand": "Top Brand",
+                "pricePLN": 49,
+                "priceUSD": 10,
+                "photos": [
+                    "/product-photos/men-t-shirt-1.jpg",
+                    "/product-photos/men-t-shirt-2.jpg",
+                    "/product-photos/men-t-shirt-3.jpg"
+                ],
+                "description": "This Vintage Tee by Top Brand is designed to offer comfort and longevity, ideal for both everyday wear and special casual occasions.",
+                "maintenanceInfo": "Wash in cold water with like colors and tumble dry on low; iron on cool if necessary."
+            },
+            {
+                "id": 7,
+                "gender": "men",
+                "category": "clothing",
+                "subcategory": "t-shirts",
+                "productName": "Classic Crew",
+                "brand": "Sun Tzu",
+                "pricePLN": 199,
+                "priceUSD": 49,
+                "photos": [
+                    "/product-photos/men-t-shirt-4.jpg",
+                    "/product-photos/men-t-shirt-5.jpg",
+                    "/product-photos/men-t-shirt-6.jpg"
+                ],
+                "description": "Experience the ultimate in comfort with Classic Crew from Sun Tzu, designed with a unique blend of materials that ensure flexibility and breathability.",
+                "maintenanceInfo": "To maintain the quality of this garment, wash on a gentle cycle and line dry."
+            },
+            {
+                "id": 8,
+                "gender": "men",
+                "category": "clothing",
+                "subcategory": "t-shirts",
+                "productName": "Iconic Tee",
+                "brand": "Sun Tzu",
+                "pricePLN": 199,
+                "priceUSD": 49,
+                "photos": [
+                    "/product-photos/men-t-shirt-7.jpg",
+                    "/product-photos/men-t-shirt-8.jpg",
+                    "/product-photos/men-t-shirt-9.jpg"
+                ],
+                "description": "Iconic Tee by Sun Tzu is crafted for the active lifestyle, featuring a stretchable fabric that moves with you and a quick-dry technology to keep you cool.",
+                "maintenanceInfo": "Machine wash cold with similar colors, do not bleach, tumble dry low."
             }
         ],
         "description": "Explore our exclusive collection of men's clothing that combines classic styles with modern trends.",
