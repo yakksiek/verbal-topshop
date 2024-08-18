@@ -72,7 +72,8 @@
         ],
         "description": "Discover our premium range of women's apparel and accessories, designed to elevate your wardrobe with elegance and style.",
         "maintenanceInfo": "For best results, follow the specific care instructions provided with each product.",
-        "heroImageUrl": "/product-photos/women.jpg"
+        "heroImageUrl": "/product-photos/women.jpg",
+        "editorialVideo": "/assets/women-video.mp4"
     },
     "men": {
         "bestsellers": [
@@ -91,7 +92,7 @@
                     "/product-photos/men-t-shirt-3.jpg"
                 ],
                 "description": "This classic Casual Tee from Top Brand offers comfort and durability, making it a staple in any wardrobe.",
-                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+                "maintenanceInfo": "Machine wash in cold water with similar colors. Use non-chlorine bleach only when necessary. Tumble dry on low heat or hang dry for best results. Iron on low setting if needed."
             },
             {
                 "id": 2,
@@ -108,7 +109,7 @@
                     "/product-photos/men-t-shirt-6.jpg"
                 ],
                 "description": "Crafted for everyday use, this Graphic Tee by Top Brand merges simple style with practical functionality.",
-                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+                "maintenanceInfo": "Wash inside out in cold water to preserve the graphic design. Avoid bleach. Tumble dry on low or line dry. Do not iron directly on the graphic print."
             },
             {
                 "id": 3,
@@ -125,7 +126,7 @@
                     "/product-photos/men-t-shirt-9.jpg"
                 ],
                 "description": "Sun Tzu's Comfort Shirt is designed for the modern man, blending traditional aesthetics with a contemporary edge.",
-                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+                "maintenanceInfo": "Hand wash or machine wash on gentle cycle with cold water. Hang to dry or lay flat to prevent stretching. If ironing is necessary, use a low heat setting and iron inside out."
             },
             {
                 "id": 4,
@@ -142,12 +143,13 @@
                     "/product-photos/men-t-shirt-3.jpg"
                 ],
                 "description": "Experience the perfect blend of comfort and style with the Trendy Top from Sun Tzu, ideal for both casual and formal settings.",
-                "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+                "maintenanceInfo": "For best results, wash in cold water on a gentle cycle. Use a mild detergent and avoid fabric softeners. Tumble dry on low or hang to dry. Iron on medium heat if needed."
             }
         ],
         "description": "Explore our exclusive collection of men's clothing that combines classic styles with modern trends.",
         "maintenanceInfo": "Keep your garments in prime condition by following our detailed care instructions.",
-        "heroImageUrl": "/product-photos/men.jpg"
+        "heroImageUrl": "/product-photos/men.jpg",
+        "editorialVideo": "/assets/men-video.mp4"
     },
     "children": {
         "bestsellers": [
@@ -222,7 +224,8 @@
         ],
         "description": "Our children's collection features high-quality, durable clothing and footwear designed to keep up with your child's active lifestyle.",
         "maintenanceInfo": "Ensure longevity and quality by adhering to our care guidelines.",
-        "heroImageUrl": "/product-photos/children.jpg"
+        "heroImageUrl": "/product-photos/children.jpg",
+        "editorialVideo": "/assets/children-video.mp4"
     },
     "products": [
         {
@@ -240,7 +243,7 @@
                 "/product-photos/men-t-shirt-3.jpg"
             ],
             "description": "This classic Casual Tee from Top Brand offers comfort and durability, making it a staple in any wardrobe.",
-            "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            "maintenanceInfo": "Machine wash in cold water with similar colors. Use non-chlorine bleach only when necessary. Tumble dry on low heat or hang dry for best results. Iron on low setting if needed."
         },
         {
             "id": 2,
@@ -257,7 +260,7 @@
                 "/product-photos/men-t-shirt-6.jpg"
             ],
             "description": "Crafted for everyday use, this Graphic Tee by Top Brand merges simple style with practical functionality.",
-            "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            "maintenanceInfo": "Wash inside out in cold water to preserve the graphic design. Avoid bleach. Tumble dry on low or line dry. Do not iron directly on the graphic print."
         },
         {
             "id": 3,
@@ -274,7 +277,7 @@
                 "/product-photos/men-t-shirt-9.jpg"
             ],
             "description": "Sun Tzu's Comfort Shirt is designed for the modern man, blending traditional aesthetics with a contemporary edge.",
-            "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            "maintenanceInfo": "Hand wash or machine wash on gentle cycle with cold water. Hang to dry or lay flat to prevent stretching. If ironing is necessary, use a low heat setting and iron inside out."
         },
         {
             "id": 4,
@@ -291,7 +294,7 @@
                 "/product-photos/men-t-shirt-3.jpg"
             ],
             "description": "Experience the perfect blend of comfort and style with the Trendy Top from Sun Tzu, ideal for both casual and formal settings.",
-            "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            "maintenanceInfo": "For best results, wash in cold water on a gentle cycle. Use a mild detergent and avoid fabric softeners. Tumble dry on low or hang to dry. Iron on medium heat if needed."
         },
         {
             "id": 5,
