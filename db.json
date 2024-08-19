@@ -356,6 +356,74 @@
                 ],
                 "description": "Perfect for active little ones, Pink Trousers by Sun zi are crafted for comfort and freedom of movement.",
                 "maintenanceInfo": "Care and maintenance details retrieved from the backend."
+            },
+            {
+                "id": 46,
+                "gender": "children",
+                "category": "footwear",
+                "subcategory": "elegant",
+                "productName": "Beautiful Boots",
+                "brand": "Manufacturer 1",
+                "pricePLN": 499,
+                "priceUSD": 99,
+                "photos": [
+                    "/product-photos/children-shoes-1.jpg",
+                    "/product-photos/children-shoes-2.jpg",
+                    "/product-photos/children-shoes-3.jpg"
+                ],
+                "description": "Ideal for dress-up occasions, these beautiful boots provide elegance with a focus on comfort for young feet.",
+                "maintenanceInfo": "Spot clean as needed and polish periodically to maintain the natural shine of the leather."
+            },
+            {
+                "id": 47,
+                "gender": "children",
+                "category": "footwear",
+                "subcategory": "sneakers",
+                "productName": "Fast Sneakers",
+                "brand": "Manufacturer 2",
+                "pricePLN": 199,
+                "priceUSD": 39,
+                "photos": [
+                    "/product-photos/children-shoes-2.jpg",
+                    "/product-photos/children-shoes-1.jpg",
+                    "/product-photos/children-shoes-3.jpg"
+                ],
+                "description": "Perfect for energetic kids, these sneakers are designed to keep up with the demands of growing children, offering durability and support.",
+                "maintenanceInfo": "Easy to clean, simply wipe down with a cloth and air dry after use to prevent odors."
+            },
+            {
+                "id": 48,
+                "gender": "children",
+                "category": "clothing",
+                "subcategory": "trousers",
+                "productName": "Blue Trousers",
+                "brand": "Sun zi",
+                "pricePLN": 299,
+                "priceUSD": 59,
+                "photos": [
+                    "/product-photos/children-trousers-1.jpg",
+                    "/product-photos/children-trousers-2.jpg",
+                    "/product-photos/children-trousers-3.jpg"
+                ],
+                "description": "Comfort meets style in these durable blue trousers, designed to withstand the rigors of play while keeping children looking their best.",
+                "maintenanceInfo": "Machine wash gentle, non-chlorine bleach if needed, and iron on a low setting."
+            },
+            {
+                "id": 49,
+                "gender": "children",
+                "category": "clothing",
+                "subcategory": "trousers",
+                "productName": "Pink Trousers",
+                "brand": "Sun Zi",
+                "pricePLN": 599,
+                "priceUSD": 119,
+                "photos": [
+                    "/product-photos/children-trousers-2.jpg",
+                    "/product-photos/children-trousers-3.jpg",
+                    "/product-photos/children-trousers-1.jpg"
+                ],
+                "description": "These vibrant pink trousers are perfect for adding a splash of color to your child's wardrobe, made with soft, stretchy material for all-day comfort.",
+                "maintenanceInfo": "Machine wash on gentle cycle with similar colors, hang to dry, iron on low heat."
             }
         ],
         "description": "Our children's collection features high-quality, durable clothing and footwear designed to keep up with your child's active lifestyle.",
