@@ -29,6 +29,54 @@ server.use(middlewares);
 //     }),
 // );
 
+// Custom middleware to handle OR queries with gender filtering
+server.use((req, res, next) => {
+    if (req.method === 'GET') {
+        // Determine the gender based on query parameters
+        const gender = req.query.women ? 'women' : req.query.men ? 'men' : req.query.children ? 'children' : null;
+
+        // Remove gender from query to avoid conflict with other filters
+        delete req.query.women;
+        delete req.query.men;
+        delete req.query.children;
+
+        // OR query handling
+        if (gender && req.query.or) {
+            const orConditions = req.query.or.split(','); // Expect something like 'description=heels,productName=heels'
+
+            const results = db.products.filter(item => {
+                return (
+                    item.gender === gender && // Filter by gender first
+                    orConditions.some(condition => {
+                        const [key, value] = condition.split('=');
+                        return item[key] && item[key].toLowerCase().includes(value.toLowerCase());
+                    })
+                );
+            });
+
+            return res.jsonp(results); // Return the filtered results
+        } else if (gender) {
+            // Handle standard gender filtering with other query parameters
+            let results = db.products.filter(item => item.gender === gender);
+
+            // Apply other query filters like description_like
+            for (let key in req.query) {
+                const value = req.query[key];
+                if (key.endsWith('_like')) {
+                    const realKey = key.replace('_like', '');
+                    results = results.filter(
+                        item => item[realKey] && item[realKey].toLowerCase().includes(value.toLowerCase()),
+                    );
+                }
+            }
+
+            return res.jsonp(results);
+        }
+    }
+
+    next();
+});
+
 server.use(router);
 server.listen(3000, () => {
     console.log('JSON Server is running');
